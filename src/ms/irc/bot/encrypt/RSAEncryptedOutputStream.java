@@ -152,7 +152,7 @@ public class RSAEncryptedOutputStream extends OutputStream {
          * if plainBuffer is full, encrypt and write it.
          */
         try {
-            plainBuffer[plainBufferPos] = b;
+            plainBuffer[plainBufferPos] = b;//note: plainBufferPos = plainBuffer.length - 1
             plainBufferPos = 0;
             out.write(RSAEncrypter.encrypt(key, new String(plainBuffer)).getBytes());
             //TODO: should I flash the plainBuffer?

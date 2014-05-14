@@ -251,7 +251,7 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 		try {
 			ircWriterThread.join();
 		} catch (InterruptedException e1) {
-			uncaughtException(ircWriterThread, e1);
+			uncaughtException(ircWriterThread, e1);//TODO: wtf?
 		}
 		ircReaderThread.interrupt();		
 		
@@ -357,10 +357,21 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 		return channel;
 	}
 
+	/**
+	 * Adds a channel to the internal list of known channels.
+	 * 
+	 * @param chan a Channel
+	 */
 	public void addChannel(Channel chan) {
 		channel.add(chan);
 	}
 
+	/**
+	 * Searches the internal channel list for a channel with the given name.
+	 * 
+	 * @param chanName a String
+	 * @return a Channel
+	 */
 	public Channel getChannel(String chanName) {
 		for (Channel chan : channel) {
 			if (chan.getChanName().equals(chanName)) {
@@ -439,7 +450,7 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 	
 	public void exit(String message) {
 		addLogEntry(Level.INFO, "Client Closeing.");
-		disconnect(message);
+		disconnect(message);//disconnect should end Reader/Writer
 		userCommandThread.interrupt();
 		ircCommandThread.interrupt();
 		ircLoggerThread.interrupt();
@@ -456,6 +467,9 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 		System.exit(0);
 	}
 
+	/**
+	 * here I'm catching all Exceptions and restarting the corresponding modul.
+	 */
 	@Override
 	public void uncaughtException(Thread t, Throwable e) {
 		if (e.getClass().equals(InterruptedException.class)) {
