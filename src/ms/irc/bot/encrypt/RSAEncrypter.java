@@ -123,7 +123,7 @@ public class RSAEncrypter {
 	/**
 	 * The method to decrypt RSA encrypted messages via the private key pair.
 	 * 
-	 * Note: like it's my own padding scheme and represantation it prabably
+	 * Note: like it's my own padding scheme and representation it probably
 	 * won't work with any other implementation.
 	 * 
 	 * @param key the private RSA key for the RSA decryption

@@ -69,12 +69,14 @@ public class RSAEncryptedOutputStream extends OutputStream {
 	public void close() throws IOException {
 	    this.flush();
 	    eof = true;
+	    out.close();
 	}
 	
 	@Override
 	public void flush() throws IOException {
         try {
             out.write(RSAEncrypter.encrypt(key, new String(Arrays.copyOfRange(plainBuffer, 0, plainBufferPos))).getBytes());
+            out.flush();
         } catch (KeyException e) {
             // TODO Well, shit.
         }
@@ -96,16 +98,35 @@ public class RSAEncryptedOutputStream extends OutputStream {
         if (eof)
             throw new IOException("Received data after stream was closed.");
         
-        /*
-         * test if length short enough to just fill up the plainBuffer
-         */
-        if (length < plainBuffer.length - plainBufferPos) {
-            plainBufferPos += length;
-//            Arrays.
+        
+        int i = 0;
+        while (plainBufferPos <= plainBufferPos + --length && plainBufferPos < plainBuffer.length) {
+            plainBuffer[plainBufferPos++] = arg0[offset + i++];
+        }
+        
+        plainBufferPos = 0;
+        try {
+            out.write(RSAEncrypter.encrypt(key, new String(plainBuffer)).getBytes());
+        } catch (KeyException e) {
+            // TODO Well, shit
         }
             
-        while (length > 0) {
+        while (length > plainBuffer.length) {
+            try {
+                out.write(RSAEncrypter.encrypt(key,
+                        new String(Arrays.copyOfRange(arg0, offset, offset + plainBuffer.length))).getBytes());
+            } catch (KeyException e) {
+                // TODO Well, shit
+            }
+            length -= plainBuffer.length;
+            offset += plainBuffer.length;
         }
+        
+        i = 0;
+        while (plainBufferPos <= plainBufferPos + --length) {
+            plainBuffer[plainBufferPos++] = arg0[offset + i++];
+        }
+        
     }
 	
 	@Override
