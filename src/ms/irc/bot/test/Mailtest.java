@@ -34,8 +34,8 @@ public class Mailtest {
 //	        properties.put("mail.smtp.auth", "true");
 //	        properties.put("mail.smtp.starttls.enable", "true");
 //	        properties.put("mail.user", "schlegelaushohensonne@yahoo.de");
-//	        properties.put("mail.password", "5950945611101992");
-//	        Authenticator auth = new SMTPAuthenticator("schlegelaushohensonne@yahoo.de", "5950945611101992");
+//	        properties.put("mail.password", "psw");
+//	        Authenticator auth = new SMTPAuthenticator("schlegelaushohensonne@yahoo.de", "psw");
 			Session emailSession = Session.getInstance(properties);
 
 			Message emailMessage = new MimeMessage(emailSession);
