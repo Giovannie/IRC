@@ -1,0 +1,3701 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-10T14:39:09</date>
+  <millis>1386682749573</millis>
+  <sequence>0</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>1386682749573:/msg #turing der Client müsste jetzt bei aktuellen config einstellungen eigentlich alles mitloggen.</message>
+</record>
+<record>
+  <date>2013-12-10T14:39:36</date>
+  <millis>1386682776544</millis>
+  <sequence>1</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>1386682776544:/msg #turing und zwar mit einem neuen Logger, der WESENTLICH intelligenter als der bisherige ist</message>
+</record>
+<record>
+  <date>2013-12-10T14:40:10</date>
+  <millis>1386682810400</millis>
+  <sequence>2</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>1386682810400:/msg #turing (und einen neuen Thread bekommen hat... Hat zwar für die Geschwindigkeit keinen Vorteil aber für das Exception Handling...)</message>
+</record>
+<record>
+  <date>2013-12-10T14:43:10</date>
+  <millis>1386682990079</millis>
+  <sequence>3</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386682990079:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T14:46:10</date>
+  <millis>1386683170073</millis>
+  <sequence>4</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386683170073:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T14:49:10</date>
+  <millis>1386683350097</millis>
+  <sequence>5</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386683350097:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T14:52:10</date>
+  <millis>1386683530064</millis>
+  <sequence>6</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386683530064:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T14:55:10</date>
+  <millis>1386683710062</millis>
+  <sequence>7</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386683710062:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T14:58:10</date>
+  <millis>1386683890055</millis>
+  <sequence>8</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386683890055:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:01:10</date>
+  <millis>1386684070058</millis>
+  <sequence>9</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386684070058:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:04:10</date>
+  <millis>1386684250054</millis>
+  <sequence>10</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386684250054:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:07:10</date>
+  <millis>1386684430045</millis>
+  <sequence>11</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386684430045:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:10:10</date>
+  <millis>1386684610041</millis>
+  <sequence>12</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386684610041:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:13:10</date>
+  <millis>1386684790043</millis>
+  <sequence>13</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386684790043:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:16:10</date>
+  <millis>1386684970038</millis>
+  <sequence>14</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386684970038:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:19:10</date>
+  <millis>1386685150032</millis>
+  <sequence>15</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386685150032:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:22:10</date>
+  <millis>1386685330040</millis>
+  <sequence>16</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386685330040:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:25:10</date>
+  <millis>1386685510025</millis>
+  <sequence>17</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386685510025:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:27:36</date>
+  <millis>1386685656552</millis>
+  <sequence>18</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>1386685656552:/msg #turing TheDwoon, kennst du einen Channel wo ich unauffällig logs erzeugen kann und wo es nicht stört das ich irgendein Client in Entwicklung bin?</message>
+</record>
+<record>
+  <date>2013-12-10T15:28:06</date>
+  <millis>1386685686653</millis>
+  <sequence>19</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>1386685686653:/msg #turing ich würde nämlich gerne einfach weiter coden wärend der mal einen guten Datensatz erzeugt.</message>
+</record>
+<record>
+  <date>2013-12-10T15:31:06</date>
+  <millis>1386685866028</millis>
+  <sequence>20</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386685866028:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:34:06</date>
+  <millis>1386686046023</millis>
+  <sequence>21</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386686046023:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:37:06</date>
+  <millis>1386686226026</millis>
+  <sequence>22</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386686226026:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:40:06</date>
+  <millis>1386686406023</millis>
+  <sequence>23</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386686406023:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:43:06</date>
+  <millis>1386686586003</millis>
+  <sequence>24</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386686586003:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:46:05</date>
+  <millis>1386686765997</millis>
+  <sequence>25</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386686765997:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:49:05</date>
+  <millis>1386686945999</millis>
+  <sequence>26</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386686945999:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:52:05</date>
+  <millis>1386687125992</millis>
+  <sequence>27</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386687125992:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:55:06</date>
+  <millis>1386687306003</millis>
+  <sequence>28</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>1386687306003:PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T15:56:16</date>
+  <millis>1386687376466</millis>
+  <sequence>29</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>1386687376466:/msg #turing okay, mal schließen und neu starten...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-10T15:57:12</date>
+  <millis>1386687432330</millis>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Started Client.</message>
+</record>
+<record>
+  <date>2013-12-10T15:57:12</date>
+  <millis>1386687432344</millis>
+  <sequence>1</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Created new IRCLogger.</message>
+</record>
+<record>
+  <date>2013-12-10T15:57:12</date>
+  <millis>1386687432344</millis>
+  <sequence>2</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>System: {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Program Files\Java\jre7\bin, java.vm.version=24.45-b08, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=DE, user.script=, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=Service Pack 1, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\Users\Uranus\workspace\IRCBot, java.runtime.version=1.7.0_45-b18, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Program Files\Java\jre7\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\Uranus\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 7, sun.jnu.encoding=Cp1252, java.library.path=C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;., java.specification.name=Java Platform API Specification, java.class.version=51.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=6.1, user.home=C:\Users\Uranus, user.timezone=, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=Cp1252, java.specification.version=1.7, java.class.path=C:\Users\Uranus\workspace\IRCBot\bin;C:\Users\Uranus\workspace\javax.mail.jar, user.name=Uranus, java.vm.specification.version=1.7, sun.java.command=ms.irc.bot.test.Test, java.home=C:\Program Files\Java\jre7, sun.arch.data.model=64, user.language=de, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.7.0_45, java.ext.dirs=C:\Program Files\Java\jre7\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}</message>
+</record>
+<record>
+  <date>2013-12-10T15:57:12</date>
+  <millis>1386687432345</millis>
+  <sequence>3</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircLoggerThread.</message>
+</record>
+<record>
+  <date>2013-12-10T15:57:12</date>
+  <millis>1386687432524</millis>
+  <sequence>4</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircWriterThread.</message>
+</record>
+<record>
+  <date>2013-12-10T15:57:12</date>
+  <millis>1386687432527</millis>
+  <sequence>5</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircReaderThread.</message>
+</record>
+<record>
+  <date>2013-12-10T15:57:12</date>
+  <millis>1386687432534</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircCommandThread.</message>
+</record>
+<record>
+  <date>2013-12-10T15:57:12</date>
+  <millis>1386687432542</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet userCommandThread.</message>
+</record>
+<record>
+  <date>2013-12-10T15:57:12</date>
+  <millis>1386687432543</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Registered Nick and User.</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-10T16:00:01</date>
+  <millis>1386687601438</millis>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Started Client.</message>
+</record>
+<record>
+  <date>2013-12-10T16:00:01</date>
+  <millis>1386687601458</millis>
+  <sequence>1</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Created new IRCLogger.</message>
+</record>
+<record>
+  <date>2013-12-10T16:00:01</date>
+  <millis>1386687601459</millis>
+  <sequence>2</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>System: {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Program Files\Java\jre7\bin, java.vm.version=24.45-b08, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=DE, user.script=, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=Service Pack 1, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\Users\Uranus\workspace\IRCBot, java.runtime.version=1.7.0_45-b18, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Program Files\Java\jre7\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\Uranus\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 7, sun.jnu.encoding=Cp1252, java.library.path=C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;., java.specification.name=Java Platform API Specification, java.class.version=51.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=6.1, user.home=C:\Users\Uranus, user.timezone=, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=Cp1252, java.specification.version=1.7, java.class.path=C:\Users\Uranus\workspace\IRCBot\bin;C:\Users\Uranus\workspace\javax.mail.jar, user.name=Uranus, java.vm.specification.version=1.7, sun.java.command=ms.irc.bot.test.Test, java.home=C:\Program Files\Java\jre7, sun.arch.data.model=64, user.language=de, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.7.0_45, java.ext.dirs=C:\Program Files\Java\jre7\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}</message>
+</record>
+<record>
+  <date>2013-12-10T16:00:01</date>
+  <millis>1386687601459</millis>
+  <sequence>3</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircLoggerThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:00:01</date>
+  <millis>1386687601542</millis>
+  <sequence>4</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircWriterThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:00:01</date>
+  <millis>1386687601543</millis>
+  <sequence>5</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircReaderThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:00:01</date>
+  <millis>1386687601550</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircCommandThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:00:01</date>
+  <millis>1386687601563</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet userCommandThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:00:01</date>
+  <millis>1386687601564</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Registered Nick and User.</message>
+</record>
+<record>
+  <date>2013-12-10T16:26:17</date>
+  <millis>1386689177871</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Config Update: Config read from file.</message>
+</record>
+<record>
+  <date>2013-12-10T16:26:17</date>
+  <millis>1386689177871</millis>
+  <sequence>10</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>UserMessage: Config reset to stored Version</message>
+</record>
+<record>
+  <date>2013-12-10T16:26:37</date>
+  <millis>1386689197196</millis>
+  <sequence>11</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #turing jetzt sollte er den kram wieder alles loggen</message>
+</record>
+<record>
+  <date>2013-12-10T16:26:37</date>
+  <millis>1386689197196</millis>
+  <sequence>12</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #turing jetzt sollte er den kram wieder alles loggen</message>
+</record>
+<record>
+  <date>2013-12-10T16:26:37</date>
+  <millis>1386689197197</millis>
+  <sequence>13</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #turing jetzt sollte er den kram wieder alles loggen</message>
+</record>
+<record>
+  <date>2013-12-10T16:27:10</date>
+  <millis>1386689230300</millis>
+  <sequence>14</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #turing jaja, sowas passiert wenn man seine config standardmäßig auf nicht loggen stellt und mit dem startup nicht automatisch die alte config einliest.</message>
+</record>
+<record>
+  <date>2013-12-10T16:27:10</date>
+  <millis>1386689230301</millis>
+  <sequence>15</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #turing jaja, sowas passiert wenn man seine config standardmäßig auf nicht loggen stellt und mit dem startup nicht automatisch die alte config einliest.</message>
+</record>
+<record>
+  <date>2013-12-10T16:27:10</date>
+  <millis>1386689230301</millis>
+  <sequence>16</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #turing jaja, sowas passiert wenn man seine config standardmäßig auf nicht loggen stellt und mit dem startup nicht automatisch die alte config einliest.</message>
+</record>
+<record>
+  <date>2013-12-10T16:30:09</date>
+  <millis>1386689409944</millis>
+  <sequence>17</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T16:30:09</date>
+  <millis>1386689409944</millis>
+  <sequence>18</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T16:30:27</date>
+  <millis>1386689427188</millis>
+  <sequence>19</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #turing jetzt hat der client auch endlich mal eine (halbwegs) saubere exit funktion</message>
+</record>
+<record>
+  <date>2013-12-10T16:30:27</date>
+  <millis>1386689427188</millis>
+  <sequence>20</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #turing jetzt hat der client auch endlich mal eine (halbwegs) saubere exit funktion</message>
+</record>
+<record>
+  <date>2013-12-10T16:30:27</date>
+  <millis>1386689427194</millis>
+  <sequence>21</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #turing jetzt hat der client auch endlich mal eine (halbwegs) saubere exit funktion</message>
+</record>
+<record>
+  <date>2013-12-10T16:30:29</date>
+  <millis>1386689429173</millis>
+  <sequence>22</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: </message>
+</record>
+<record>
+  <date>2013-12-10T16:30:29</date>
+  <millis>1386689429173</millis>
+  <sequence>23</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg </message>
+</record>
+<record>
+  <date>2013-12-10T16:30:29</date>
+  <millis>1386689429174</millis>
+  <sequence>24</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg /msg</message>
+</record>
+<record>
+  <date>2013-12-10T16:30:29</date>
+  <millis>1386689429199</millis>
+  <sequence>25</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 412 AlphatestIRC0 :No text to send</message>
+</record>
+<record>
+  <date>2013-12-10T16:30:29</date>
+  <millis>1386689429199</millis>
+  <sequence>26</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 412 AlphatestIRC0 :No text to send</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:01</date>
+  <millis>1386689461387</millis>
+  <sequence>27</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #turing die erstmal alle Threads killed, alles zu Ende schreiben lässt etc.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:01</date>
+  <millis>1386689461387</millis>
+  <sequence>28</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #turing die erstmal alle Threads killed, alles zu Ende schreiben lässt etc.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:01</date>
+  <millis>1386689461388</millis>
+  <sequence>29</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #turing die erstmal alle Threads killed, alles zu Ende schreiben lässt etc.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:05</date>
+  <millis>1386689465267</millis>
+  <sequence>30</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: /exit</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:05</date>
+  <millis>1386689465267</millis>
+  <sequence>31</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /exit</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:05</date>
+  <millis>1386689465268</millis>
+  <sequence>32</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/exit /exit</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:05</date>
+  <millis>1386689465268</millis>
+  <sequence>33</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>UserMessage: Error! Unknown command: /exit</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-10T16:31:14</date>
+  <millis>1386689474280</millis>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Started Client.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:14</date>
+  <millis>1386689474326</millis>
+  <sequence>1</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Created new IRCLogger.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:14</date>
+  <millis>1386689474327</millis>
+  <sequence>2</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>System: {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Program Files\Java\jre7\bin, java.vm.version=24.45-b08, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=DE, user.script=, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=Service Pack 1, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\Users\Uranus\workspace\IRCBot, java.runtime.version=1.7.0_45-b18, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Program Files\Java\jre7\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\Uranus\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 7, sun.jnu.encoding=Cp1252, java.library.path=C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;., java.specification.name=Java Platform API Specification, java.class.version=51.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=6.1, user.home=C:\Users\Uranus, user.timezone=, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=Cp1252, java.specification.version=1.7, java.class.path=C:\Users\Uranus\workspace\IRCBot\bin;C:\Users\Uranus\workspace\javax.mail.jar, user.name=Uranus, java.vm.specification.version=1.7, sun.java.command=ms.irc.bot.test.Test, java.home=C:\Program Files\Java\jre7, sun.arch.data.model=64, user.language=de, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.7.0_45, java.ext.dirs=C:\Program Files\Java\jre7\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:14</date>
+  <millis>1386689474328</millis>
+  <sequence>3</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircLoggerThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:14</date>
+  <millis>1386689474328</millis>
+  <sequence>4</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Trying to log on. Server: portlane.se.quakenet.org Port: 6667 Nick: AlphatestIRC0</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:16</date>
+  <millis>1386689476520</millis>
+  <sequence>5</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircWriterThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:16</date>
+  <millis>1386689476531</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircReaderThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:17</date>
+  <millis>1386689477060</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircCommandThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:17</date>
+  <millis>1386689477543</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet userCommandThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:17</date>
+  <millis>1386689477543</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Registered Nick and User.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:47</date>
+  <millis>1386689507822</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Config Update: Config read from file.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:47</date>
+  <millis>1386689507822</millis>
+  <sequence>11</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>UserMessage: Config reset to stored Version</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:55</date>
+  <millis>1386689515199</millis>
+  <sequence>12</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: /join #turing</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:55</date>
+  <millis>1386689515199</millis>
+  <sequence>13</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /join #turing</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:55</date>
+  <millis>1386689515199</millis>
+  <sequence>14</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/join #turing</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:55</date>
+  <millis>1386689515225</millis>
+  <sequence>15</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:AlphatestIRC0!~aicab@scc-wkit-clx-231-100.scc.kit.edu JOIN #turing</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:55</date>
+  <millis>1386689515274</millis>
+  <sequence>16</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#turing] &lt;AlphatestIRC0&gt; joined.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:55</date>
+  <millis>1386689515274</millis>
+  <sequence>17</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 353 AlphatestIRC0 = #turing :AlphatestIRC0 Giovannie @TheDwoon</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:55</date>
+  <millis>1386689515274</millis>
+  <sequence>18</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 353 AlphatestIRC0 = #turing :AlphatestIRC0 Giovannie @TheDwoon</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:55</date>
+  <millis>1386689515274</millis>
+  <sequence>19</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 366 AlphatestIRC0 #turing :End of /NAMES list.</message>
+</record>
+<record>
+  <date>2013-12-10T16:31:55</date>
+  <millis>1386689515274</millis>
+  <sequence>20</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 366 AlphatestIRC0 #turing :End of /NAMES list.</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:01</date>
+  <millis>1386689521337</millis>
+  <sequence>21</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: /exit bla</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:01</date>
+  <millis>1386689521337</millis>
+  <sequence>22</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /exit bla</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:01</date>
+  <millis>1386689521338</millis>
+  <sequence>23</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/exit bla</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:01</date>
+  <millis>1386689521338</millis>
+  <sequence>24</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>UserMessage: Program Exit.</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:01</date>
+  <millis>1386689521338</millis>
+  <sequence>25</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Client Closeing.</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:01</date>
+  <millis>1386689521338</millis>
+  <sequence>26</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Disconnecting.</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-12-10T16:32:52</date>
+  <millis>1386689572647</millis>
+  <sequence>0</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Started Client.</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:52</date>
+  <millis>1386689572660</millis>
+  <sequence>1</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Created new IRCLogger.</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:52</date>
+  <millis>1386689572661</millis>
+  <sequence>2</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>System: {java.runtime.name=Java(TM) SE Runtime Environment, sun.boot.library.path=C:\Program Files\Java\jre7\bin, java.vm.version=24.45-b08, java.vm.vendor=Oracle Corporation, java.vendor.url=http://java.oracle.com/, path.separator=;, java.vm.name=Java HotSpot(TM) 64-Bit Server VM, file.encoding.pkg=sun.io, user.country=DE, user.script=, sun.java.launcher=SUN_STANDARD, sun.os.patch.level=Service Pack 1, java.vm.specification.name=Java Virtual Machine Specification, user.dir=C:\Users\Uranus\workspace\IRCBot, java.runtime.version=1.7.0_45-b18, java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment, java.endorsed.dirs=C:\Program Files\Java\jre7\lib\endorsed, os.arch=amd64, java.io.tmpdir=C:\Users\Uranus\AppData\Local\Temp\, line.separator=
+, java.vm.specification.vendor=Oracle Corporation, user.variant=, os.name=Windows 7, sun.jnu.encoding=Cp1252, java.library.path=C:\Program Files\Java\jre7\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;., java.specification.name=Java Platform API Specification, java.class.version=51.0, sun.management.compiler=HotSpot 64-Bit Tiered Compilers, os.version=6.1, user.home=C:\Users\Uranus, user.timezone=, java.awt.printerjob=sun.awt.windows.WPrinterJob, file.encoding=Cp1252, java.specification.version=1.7, java.class.path=C:\Users\Uranus\workspace\IRCBot\bin;C:\Users\Uranus\workspace\javax.mail.jar, user.name=Uranus, java.vm.specification.version=1.7, sun.java.command=ms.irc.bot.test.Test, java.home=C:\Program Files\Java\jre7, sun.arch.data.model=64, user.language=de, java.specification.vendor=Oracle Corporation, awt.toolkit=sun.awt.windows.WToolkit, java.vm.info=mixed mode, java.version=1.7.0_45, java.ext.dirs=C:\Program Files\Java\jre7\lib\ext;C:\Windows\Sun\Java\lib\ext, sun.boot.class.path=C:\Program Files\Java\jre7\lib\resources.jar;C:\Program Files\Java\jre7\lib\rt.jar;C:\Program Files\Java\jre7\lib\sunrsasign.jar;C:\Program Files\Java\jre7\lib\jsse.jar;C:\Program Files\Java\jre7\lib\jce.jar;C:\Program Files\Java\jre7\lib\charsets.jar;C:\Program Files\Java\jre7\lib\jfr.jar;C:\Program Files\Java\jre7\classes, java.vendor=Oracle Corporation, file.separator=\, java.vendor.url.bug=http://bugreport.sun.com/bugreport/, sun.io.unicode.encoding=UnicodeLittle, sun.cpu.endian=little, sun.desktop=windows, sun.cpu.isalist=amd64}</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:52</date>
+  <millis>1386689572661</millis>
+  <sequence>3</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircLoggerThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:52</date>
+  <millis>1386689572662</millis>
+  <sequence>4</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Trying to log on. Server: portlane.se.quakenet.org Port: 6667 Nick: AlphatestIRC0</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:52</date>
+  <millis>1386689572754</millis>
+  <sequence>5</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircWriterThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:52</date>
+  <millis>1386689572755</millis>
+  <sequence>6</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircReaderThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:52</date>
+  <millis>1386689572762</millis>
+  <sequence>7</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet ircCommandThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:52</date>
+  <millis>1386689572772</millis>
+  <sequence>8</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Startet userCommandThread.</message>
+</record>
+<record>
+  <date>2013-12-10T16:32:52</date>
+  <millis>1386689572773</millis>
+  <sequence>9</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>1</thread>
+  <message>Registered Nick and User.</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:33</date>
+  <millis>1386689733714</millis>
+  <sequence>10</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Config Update: Config read from file.</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:33</date>
+  <millis>1386689733714</millis>
+  <sequence>11</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>UserMessage: Config reset to stored Version</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:40</date>
+  <millis>1386689740953</millis>
+  <sequence>12</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: /join #turing</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:40</date>
+  <millis>1386689740953</millis>
+  <sequence>13</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /join #turing</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:40</date>
+  <millis>1386689740954</millis>
+  <sequence>14</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/join #turing</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:40</date>
+  <millis>1386689740982</millis>
+  <sequence>15</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:AlphatestIRC0!~aicab@scc-wkit-clx-231-100.scc.kit.edu JOIN #turing</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:40</date>
+  <millis>1386689740985</millis>
+  <sequence>16</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#turing] &lt;AlphatestIRC0&gt; joined.</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:40</date>
+  <millis>1386689740985</millis>
+  <sequence>17</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 353 AlphatestIRC0 = #turing :AlphatestIRC0 Giovannie @TheDwoon</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:40</date>
+  <millis>1386689740985</millis>
+  <sequence>18</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 353 AlphatestIRC0 = #turing :AlphatestIRC0 Giovannie @TheDwoon</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:40</date>
+  <millis>1386689740985</millis>
+  <sequence>19</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 366 AlphatestIRC0 #turing :End of /NAMES list.</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:40</date>
+  <millis>1386689740985</millis>
+  <sequence>20</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 366 AlphatestIRC0 #turing :End of /NAMES list.</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:45</date>
+  <millis>1386689745597</millis>
+  <sequence>21</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: /join #kit</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:45</date>
+  <millis>1386689745597</millis>
+  <sequence>22</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /join #kit</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:45</date>
+  <millis>1386689745597</millis>
+  <sequence>23</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/join #kit</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:45</date>
+  <millis>1386689745623</millis>
+  <sequence>24</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:AlphatestIRC0!~aicab@scc-wkit-clx-231-100.scc.kit.edu JOIN #kit</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:45</date>
+  <millis>1386689745624</millis>
+  <sequence>25</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#kit] &lt;AlphatestIRC0&gt; joined.</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:45</date>
+  <millis>1386689745624</millis>
+  <sequence>26</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 353 AlphatestIRC0 = #kit :AlphatestIRC0 Giovannie marsiii TheDwoon</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:45</date>
+  <millis>1386689745624</millis>
+  <sequence>27</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 353 AlphatestIRC0 = #kit :AlphatestIRC0 Giovannie marsiii TheDwoon</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:45</date>
+  <millis>1386689745624</millis>
+  <sequence>28</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 366 AlphatestIRC0 #kit :End of /NAMES list.</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:45</date>
+  <millis>1386689745624</millis>
+  <sequence>29</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 366 AlphatestIRC0 #kit :End of /NAMES list.</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753660</millis>
+  <sequence>30</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: /join #tierwiese</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753660</millis>
+  <sequence>31</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /join #tierwiese</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753661</millis>
+  <sequence>32</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/join #tierwiese</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753689</millis>
+  <sequence>33</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:AlphatestIRC0!~aicab@scc-wkit-clx-231-100.scc.kit.edu JOIN #tierwiese</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753689</millis>
+  <sequence>34</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#tierwiese] &lt;AlphatestIRC0&gt; joined.</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753689</millis>
+  <sequence>35</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 332 AlphatestIRC0 #tierwiese :#tierwiese - Hunde, Katzen und Fische welcome! Katze zieht allerdings bald um nach 151.236.17.76 #tierwiese</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753689</millis>
+  <sequence>36</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 332 AlphatestIRC0 #tierwiese :#tierwiese - Hunde, Katzen und Fische welcome! Katze zieht allerdings bald um nach 151.236.17.76 #tierwiese</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753689</millis>
+  <sequence>37</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 333 AlphatestIRC0 #tierwiese marsiii 1383513431</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753689</millis>
+  <sequence>38</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 333 AlphatestIRC0 #tierwiese marsiii 1383513431</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753689</millis>
+  <sequence>39</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 353 AlphatestIRC0 = #tierwiese :AlphatestIRC0 Giovannie @marsiii schink3n satanist TheDwoon icelight Chaos @Q MMAGIC</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753689</millis>
+  <sequence>40</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 353 AlphatestIRC0 = #tierwiese :AlphatestIRC0 Giovannie @marsiii schink3n satanist TheDwoon icelight Chaos @Q MMAGIC</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753689</millis>
+  <sequence>41</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 366 AlphatestIRC0 #tierwiese :End of /NAMES list.</message>
+</record>
+<record>
+  <date>2013-12-10T16:35:53</date>
+  <millis>1386689753689</millis>
+  <sequence>42</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 366 AlphatestIRC0 #tierwiese :End of /NAMES list.</message>
+</record>
+<record>
+  <date>2013-12-10T16:36:01</date>
+  <millis>1386689761898</millis>
+  <sequence>43</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: /nick Giovannie2</message>
+</record>
+<record>
+  <date>2013-12-10T16:36:01</date>
+  <millis>1386689761898</millis>
+  <sequence>44</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /nick Giovannie2</message>
+</record>
+<record>
+  <date>2013-12-10T16:36:01</date>
+  <millis>1386689761898</millis>
+  <sequence>45</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/nick Giovannie2</message>
+</record>
+<record>
+  <date>2013-12-10T16:36:01</date>
+  <millis>1386689761930</millis>
+  <sequence>46</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:AlphatestIRC0!~aicab@scc-wkit-clx-231-100.scc.kit.edu NICK  :Giovannie2</message>
+</record>
+<record>
+  <date>2013-12-10T16:36:01</date>
+  <millis>1386689761931</millis>
+  <sequence>47</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :AlphatestIRC0!~aicab@scc-wkit-clx-231-100.scc.kit.edu NICK  :Giovannie2</message>
+</record>
+<record>
+  <date>2013-12-10T16:36:30</date>
+  <millis>1386689790776</millis>
+  <sequence>48</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #turing hmm, scheint noch nicht auf alle Threads zu warten mit dem exit, dabei sollte er das eigentlich... mal sehen.</message>
+</record>
+<record>
+  <date>2013-12-10T16:36:30</date>
+  <millis>1386689790776</millis>
+  <sequence>49</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #turing hmm, scheint noch nicht auf alle Threads zu warten mit dem exit, dabei sollte er das eigentlich... mal sehen.</message>
+</record>
+<record>
+  <date>2013-12-10T16:36:30</date>
+  <millis>1386689790777</millis>
+  <sequence>50</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #turing hmm, scheint noch nicht auf alle Threads zu warten mit dem exit, dabei sollte er das eigentlich... mal sehen.</message>
+</record>
+<record>
+  <date>2013-12-10T16:39:29</date>
+  <millis>1386689969933</millis>
+  <sequence>51</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T16:39:29</date>
+  <millis>1386689969934</millis>
+  <sequence>52</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T16:42:29</date>
+  <millis>1386690149944</millis>
+  <sequence>53</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T16:42:29</date>
+  <millis>1386690149944</millis>
+  <sequence>54</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T16:45:29</date>
+  <millis>1386690329929</millis>
+  <sequence>55</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T16:45:29</date>
+  <millis>1386690329929</millis>
+  <sequence>56</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T16:48:28</date>
+  <millis>1386690508660</millis>
+  <sequence>57</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #turing bla bla bla</message>
+</record>
+<record>
+  <date>2013-12-10T16:48:28</date>
+  <millis>1386690508661</millis>
+  <sequence>58</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #turing bla bla bla</message>
+</record>
+<record>
+  <date>2013-12-10T16:48:28</date>
+  <millis>1386690508662</millis>
+  <sequence>59</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #turing bla bla bla</message>
+</record>
+<record>
+  <date>2013-12-10T16:48:41</date>
+  <millis>1386690521158</millis>
+  <sequence>60</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese marsiii, anwesend?</message>
+</record>
+<record>
+  <date>2013-12-10T16:48:41</date>
+  <millis>1386690521158</millis>
+  <sequence>61</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese marsiii, anwesend?</message>
+</record>
+<record>
+  <date>2013-12-10T16:48:41</date>
+  <millis>1386690521158</millis>
+  <sequence>62</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese marsiii, anwesend?</message>
+</record>
+<record>
+  <date>2013-12-10T16:49:01</date>
+  <millis>1386690541051</millis>
+  <sequence>63</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese mir ist langweilig, ich hätte eigentlich viel zu tun und habe aber keinen Bock!</message>
+</record>
+<record>
+  <date>2013-12-10T16:49:01</date>
+  <millis>1386690541052</millis>
+  <sequence>64</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese mir ist langweilig, ich hätte eigentlich viel zu tun und habe aber keinen Bock!</message>
+</record>
+<record>
+  <date>2013-12-10T16:49:01</date>
+  <millis>1386690541052</millis>
+  <sequence>65</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese mir ist langweilig, ich hätte eigentlich viel zu tun und habe aber keinen Bock!</message>
+</record>
+<record>
+  <date>2013-12-10T16:49:35</date>
+  <millis>1386690575719</millis>
+  <sequence>66</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese und ich muss es mal schaffen mein irc log auf 1GB auf zu blähen um zu sehen ob das limit schön brav eingehalten wird.</message>
+</record>
+<record>
+  <date>2013-12-10T16:49:35</date>
+  <millis>1386690575719</millis>
+  <sequence>67</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese und ich muss es mal schaffen mein irc log auf 1GB auf zu blähen um zu sehen ob das limit schön brav eingehalten wird.</message>
+</record>
+<record>
+  <date>2013-12-10T16:49:35</date>
+  <millis>1386690575720</millis>
+  <sequence>68</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese und ich muss es mal schaffen mein irc log auf 1GB auf zu blähen um zu sehen ob das limit schön brav eingehalten wird.</message>
+</record>
+<record>
+  <date>2013-12-10T16:49:55</date>
+  <millis>1386690595390</millis>
+  <sequence>69</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese bin mir nämlich nicht ganz sicher was passiert wenn ich an das Limit komme</message>
+</record>
+<record>
+  <date>2013-12-10T16:49:55</date>
+  <millis>1386690595390</millis>
+  <sequence>70</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese bin mir nämlich nicht ganz sicher was passiert wenn ich an das Limit komme</message>
+</record>
+<record>
+  <date>2013-12-10T16:49:55</date>
+  <millis>1386690595390</millis>
+  <sequence>71</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese bin mir nämlich nicht ganz sicher was passiert wenn ich an das Limit komme</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:03</date>
+  <millis>1386690603521</millis>
+  <sequence>72</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:marsiii!~mars@mangkut.bug.ch PRIVMSG #tierwiese :möchtest du rosa deko verstreuen? :D</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:03</date>
+  <millis>1386690603521</millis>
+  <sequence>73</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#tierwiese] &lt;marsiii&gt;:möchtest du rosa deko verstreuen? :D</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:09</date>
+  <millis>1386690609575</millis>
+  <sequence>74</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese aber bis</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:09</date>
+  <millis>1386690609575</millis>
+  <sequence>75</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese aber bis</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:09</date>
+  <millis>1386690609575</millis>
+  <sequence>76</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese aber bis</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:14</date>
+  <millis>1386690614043</millis>
+  <sequence>77</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese blub</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:14</date>
+  <millis>1386690614043</millis>
+  <sequence>78</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese blub</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:14</date>
+  <millis>1386690614043</millis>
+  <sequence>79</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese blub</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:14</date>
+  <millis>1386690614480</millis>
+  <sequence>80</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:marsiii!~mars@mangkut.bug.ch PRIVMSG #tierwiese :versuch es vllt mal mit weniger...?</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:14</date>
+  <millis>1386690614480</millis>
+  <sequence>81</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#tierwiese] &lt;marsiii&gt;:versuch es vllt mal mit weniger...?</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:35</date>
+  <millis>1386690635903</millis>
+  <sequence>82</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese ich kann rosa deko verstreuen, aber muss es wirklich rosa sein?</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:35</date>
+  <millis>1386690635903</millis>
+  <sequence>83</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese ich kann rosa deko verstreuen, aber muss es wirklich rosa sein?</message>
+</record>
+<record>
+  <date>2013-12-10T16:50:35</date>
+  <millis>1386690635903</millis>
+  <sequence>84</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese ich kann rosa deko verstreuen, aber muss es wirklich rosa sein?</message>
+</record>
+<record>
+  <date>2013-12-10T16:51:05</date>
+  <millis>1386690665739</millis>
+  <sequence>85</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese ich habe bereits 66kB</message>
+</record>
+<record>
+  <date>2013-12-10T16:51:05</date>
+  <millis>1386690665739</millis>
+  <sequence>86</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese ich habe bereits 66kB</message>
+</record>
+<record>
+  <date>2013-12-10T16:51:05</date>
+  <millis>1386690665739</millis>
+  <sequence>87</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese ich habe bereits 66kB</message>
+</record>
+<record>
+  <date>2013-12-10T16:51:23</date>
+  <millis>1386690683569</millis>
+  <sequence>88</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese fehlt fast nix mehr zum GB^^</message>
+</record>
+<record>
+  <date>2013-12-10T16:51:23</date>
+  <millis>1386690683570</millis>
+  <sequence>89</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese fehlt fast nix mehr zum GB^^</message>
+</record>
+<record>
+  <date>2013-12-10T16:51:23</date>
+  <millis>1386690683570</millis>
+  <sequence>90</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese fehlt fast nix mehr zum GB^^</message>
+</record>
+<record>
+  <date>2013-12-10T16:53:20</date>
+  <millis>1386690800320</millis>
+  <sequence>91</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: </message>
+</record>
+<record>
+  <date>2013-12-10T16:53:20</date>
+  <millis>1386690800321</millis>
+  <sequence>92</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg </message>
+</record>
+<record>
+  <date>2013-12-10T16:53:20</date>
+  <millis>1386690800324</millis>
+  <sequence>93</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg /msg</message>
+</record>
+<record>
+  <date>2013-12-10T16:53:20</date>
+  <millis>1386690800351</millis>
+  <sequence>94</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 412 Giovannie2 :No text to send</message>
+</record>
+<record>
+  <date>2013-12-10T16:53:20</date>
+  <millis>1386690800351</millis>
+  <sequence>95</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 412 Giovannie2 :No text to send</message>
+</record>
+<record>
+  <date>2013-12-10T16:53:50</date>
+  <millis>1386690830882</millis>
+  <sequence>96</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese ich änder das ganze mal auf max. 100 files zu 1MB statt 1 File zu 1GB</message>
+</record>
+<record>
+  <date>2013-12-10T16:53:50</date>
+  <millis>1386690830882</millis>
+  <sequence>97</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese ich änder das ganze mal auf max. 100 files zu 1MB statt 1 File zu 1GB</message>
+</record>
+<record>
+  <date>2013-12-10T16:53:50</date>
+  <millis>1386690830882</millis>
+  <sequence>98</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese ich änder das ganze mal auf max. 100 files zu 1MB statt 1 File zu 1GB</message>
+</record>
+<record>
+  <date>2013-12-10T16:54:12</date>
+  <millis>1386690852229</millis>
+  <sequence>99</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:marsiii!~mars@mangkut.bug.ch PRIVMSG #tierwiese ::D</message>
+</record>
+<record>
+  <date>2013-12-10T16:54:12</date>
+  <millis>1386690852229</millis>
+  <sequence>100</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#tierwiese] &lt;marsiii&gt;::D</message>
+</record>
+<record>
+  <date>2013-12-10T16:54:18</date>
+  <millis>1386690858379</millis>
+  <sequence>101</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:marsiii!~mars@mangkut.bug.ch PRIVMSG #tierwiese :jep</message>
+</record>
+<record>
+  <date>2013-12-10T16:54:18</date>
+  <millis>1386690858380</millis>
+  <sequence>102</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#tierwiese] &lt;marsiii&gt;:jep</message>
+</record>
+<record>
+  <date>2013-12-10T16:55:39</date>
+  <millis>1386690939191</millis>
+  <sequence>103</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #tierwiese und du verteilst grad rosa deko?</message>
+</record>
+<record>
+  <date>2013-12-10T16:55:39</date>
+  <millis>1386690939191</millis>
+  <sequence>104</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #tierwiese und du verteilst grad rosa deko?</message>
+</record>
+<record>
+  <date>2013-12-10T16:55:39</date>
+  <millis>1386690939191</millis>
+  <sequence>105</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #tierwiese und du verteilst grad rosa deko?</message>
+</record>
+<record>
+  <date>2013-12-10T16:58:38</date>
+  <millis>1386691118913</millis>
+  <sequence>106</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T16:58:38</date>
+  <millis>1386691118913</millis>
+  <sequence>107</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:01:38</date>
+  <millis>1386691298951</millis>
+  <sequence>108</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:01:38</date>
+  <millis>1386691298952</millis>
+  <sequence>109</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:04:38</date>
+  <millis>1386691478911</millis>
+  <sequence>110</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:04:38</date>
+  <millis>1386691478912</millis>
+  <sequence>111</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541507</millis>
+  <sequence>112</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: /join #voodooalert</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541508</millis>
+  <sequence>113</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /join #voodooalert</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541508</millis>
+  <sequence>114</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/join #voodooalert</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541560</millis>
+  <sequence>115</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Giovannie2!~aicab@scc-wkit-clx-231-100.scc.kit.edu JOIN #voodooalert</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541560</millis>
+  <sequence>116</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Giovannie2&gt; joined.</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541560</millis>
+  <sequence>117</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 332 Giovannie2 #voodooalert :0,12Voodoo7,12Alert0,12.de0,1 - so powerful, it's kind of ridiculous</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541560</millis>
+  <sequence>118</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 332 Giovannie2 #voodooalert :0,12Voodoo7,12Alert0,12.de0,1 - so powerful, it's kind of ridiculous</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541560</millis>
+  <sequence>119</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 333 Giovannie2 #voodooalert Q 1386366308</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541560</millis>
+  <sequence>120</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 333 Giovannie2 #voodooalert Q 1386366308</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541560</millis>
+  <sequence>121</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 353 Giovannie2 = #voodooalert :Giovannie2 @exxe @Giovannie @Elianda marsiii @Fenrir|MUL @Survion|XIN @Q</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541560</millis>
+  <sequence>122</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 353 Giovannie2 = #voodooalert :Giovannie2 @exxe @Giovannie @Elianda marsiii @Fenrir|MUL @Survion|XIN @Q</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541560</millis>
+  <sequence>123</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:portlane.se.quakenet.org 366 Giovannie2 #voodooalert :End of /NAMES list.</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:41</date>
+  <millis>1386691541561</millis>
+  <sequence>124</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :portlane.se.quakenet.org 366 Giovannie2 #voodooalert :End of /NAMES list.</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:54</date>
+  <millis>1386691554169</millis>
+  <sequence>125</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert jemand online?</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:54</date>
+  <millis>1386691554170</millis>
+  <sequence>126</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert jemand online?</message>
+</record>
+<record>
+  <date>2013-12-10T17:05:54</date>
+  <millis>1386691554170</millis>
+  <sequence>127</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert jemand online?</message>
+</record>
+<record>
+  <date>2013-12-10T17:06:08</date>
+  <millis>1386691568624</millis>
+  <sequence>128</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert ich kann mich im VA nicht mehr anmelden :(</message>
+</record>
+<record>
+  <date>2013-12-10T17:06:08</date>
+  <millis>1386691568624</millis>
+  <sequence>129</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert ich kann mich im VA nicht mehr anmelden :(</message>
+</record>
+<record>
+  <date>2013-12-10T17:06:08</date>
+  <millis>1386691568626</millis>
+  <sequence>130</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert ich kann mich im VA nicht mehr anmelden :(</message>
+</record>
+<record>
+  <date>2013-12-10T17:06:16</date>
+  <millis>1386691576531</millis>
+  <sequence>131</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:exxe!~chatzilla@p5DD68E70.dip0.t-ipconnect.de PRIVMSG #voodooalert :warum?</message>
+</record>
+<record>
+  <date>2013-12-10T17:06:16</date>
+  <millis>1386691576531</millis>
+  <sequence>132</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;exxe&gt;:warum?</message>
+</record>
+<record>
+  <date>2013-12-10T17:06:30</date>
+  <millis>1386691590940</millis>
+  <sequence>133</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert muss ich mal zu hause erneut testen aber hier gehts im Moment nicht</message>
+</record>
+<record>
+  <date>2013-12-10T17:06:30</date>
+  <millis>1386691590940</millis>
+  <sequence>134</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert muss ich mal zu hause erneut testen aber hier gehts im Moment nicht</message>
+</record>
+<record>
+  <date>2013-12-10T17:06:30</date>
+  <millis>1386691590941</millis>
+  <sequence>135</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert muss ich mal zu hause erneut testen aber hier gehts im Moment nicht</message>
+</record>
+<record>
+  <date>2013-12-10T17:06:44</date>
+  <millis>1386691604522</millis>
+  <sequence>136</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:exxe!~chatzilla@p5DD68E70.dip0.t-ipconnect.de PRIVMSG #voodooalert :pw vergessen?</message>
+</record>
+<record>
+  <date>2013-12-10T17:06:44</date>
+  <millis>1386691604523</millis>
+  <sequence>137</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;exxe&gt;:pw vergessen?</message>
+</record>
+<record>
+  <date>2013-12-10T17:07:16</date>
+  <millis>1386691636880</millis>
+  <sequence>138</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert wenn ich mich anmelde kommt das sie wurden erfolgreich angemeldet etc. Dann sollte man ja "zurück geleitet" werden (oder man klickt selber auf den link zur startseite)</message>
+</record>
+<record>
+  <date>2013-12-10T17:07:16</date>
+  <millis>1386691636880</millis>
+  <sequence>139</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert wenn ich mich anmelde kommt das sie wurden erfolgreich angemeldet etc. Dann sollte man ja "zurück geleitet" werden (oder man klickt selber auf den link zur startseite)</message>
+</record>
+<record>
+  <date>2013-12-10T17:07:16</date>
+  <millis>1386691636881</millis>
+  <sequence>140</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert wenn ich mich anmelde kommt das sie wurden erfolgreich angemeldet etc. Dann sollte man ja "zurück geleitet" werden (oder man klickt selber auf den link zur startseite)</message>
+</record>
+<record>
+  <date>2013-12-10T17:07:26</date>
+  <millis>1386691646142</millis>
+  <sequence>141</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert soweit funktionierts</message>
+</record>
+<record>
+  <date>2013-12-10T17:07:26</date>
+  <millis>1386691646142</millis>
+  <sequence>142</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert soweit funktionierts</message>
+</record>
+<record>
+  <date>2013-12-10T17:07:26</date>
+  <millis>1386691646142</millis>
+  <sequence>143</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert soweit funktionierts</message>
+</record>
+<record>
+  <date>2013-12-10T17:07:55</date>
+  <millis>1386691675791</millis>
+  <sequence>144</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert aber sobald ich dann irgendeine va Seite öffne oder mich wieder zur Startseite zurück leiten lasse bin ich wieder nur ein Gast...</message>
+</record>
+<record>
+  <date>2013-12-10T17:07:55</date>
+  <millis>1386691675791</millis>
+  <sequence>145</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert aber sobald ich dann irgendeine va Seite öffne oder mich wieder zur Startseite zurück leiten lasse bin ich wieder nur ein Gast...</message>
+</record>
+<record>
+  <date>2013-12-10T17:07:55</date>
+  <millis>1386691675791</millis>
+  <sequence>146</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert aber sobald ich dann irgendeine va Seite öffne oder mich wieder zur Startseite zurück leiten lasse bin ich wieder nur ein Gast...</message>
+</record>
+<record>
+  <date>2013-12-10T17:08:22</date>
+  <millis>1386691702613</millis>
+  <sequence>147</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:exxe!~chatzilla@p5DD68E70.dip0.t-ipconnect.de PRIVMSG #voodooalert :soll ich das mal so im VA posten?</message>
+</record>
+<record>
+  <date>2013-12-10T17:08:22</date>
+  <millis>1386691702613</millis>
+  <sequence>148</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;exxe&gt;:soll ich das mal so im VA posten?</message>
+</record>
+<record>
+  <date>2013-12-10T17:08:26</date>
+  <millis>1386691706052</millis>
+  <sequence>149</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert hat vor 1h noch mit dem gleichen Laptop aus dem gleichen Netz bei gleichen Einstellungen funktioniert</message>
+</record>
+<record>
+  <date>2013-12-10T17:08:26</date>
+  <millis>1386691706052</millis>
+  <sequence>150</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert hat vor 1h noch mit dem gleichen Laptop aus dem gleichen Netz bei gleichen Einstellungen funktioniert</message>
+</record>
+<record>
+  <date>2013-12-10T17:08:26</date>
+  <millis>1386691706052</millis>
+  <sequence>151</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert hat vor 1h noch mit dem gleichen Laptop aus dem gleichen Netz bei gleichen Einstellungen funktioniert</message>
+</record>
+<record>
+  <date>2013-12-10T17:08:45</date>
+  <millis>1386691725438</millis>
+  <sequence>152</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:exxe!~chatzilla@p5DD68E70.dip0.t-ipconnect.de PRIVMSG #voodooalert :mal alle kekse gelöscht?</message>
+</record>
+<record>
+  <date>2013-12-10T17:08:45</date>
+  <millis>1386691725438</millis>
+  <sequence>153</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;exxe&gt;:mal alle kekse gelöscht?</message>
+</record>
+<record>
+  <date>2013-12-10T17:08:57</date>
+  <millis>1386691737378</millis>
+  <sequence>154</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert ja mach bitte mal. Ich werde nachher nochmal von zu Hause testen, das Uninetz ist manchmal seltsam</message>
+</record>
+<record>
+  <date>2013-12-10T17:08:57</date>
+  <millis>1386691737378</millis>
+  <sequence>155</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert ja mach bitte mal. Ich werde nachher nochmal von zu Hause testen, das Uninetz ist manchmal seltsam</message>
+</record>
+<record>
+  <date>2013-12-10T17:08:57</date>
+  <millis>1386691737379</millis>
+  <sequence>156</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert ja mach bitte mal. Ich werde nachher nochmal von zu Hause testen, das Uninetz ist manchmal seltsam</message>
+</record>
+<record>
+  <date>2013-12-10T17:09:13</date>
+  <millis>1386691753627</millis>
+  <sequence>157</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert cookies hatte ich auch erst im verdacht aber das hab ich schon getestet.</message>
+</record>
+<record>
+  <date>2013-12-10T17:09:13</date>
+  <millis>1386691753627</millis>
+  <sequence>158</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert cookies hatte ich auch erst im verdacht aber das hab ich schon getestet.</message>
+</record>
+<record>
+  <date>2013-12-10T17:09:13</date>
+  <millis>1386691753627</millis>
+  <sequence>159</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert cookies hatte ich auch erst im verdacht aber das hab ich schon getestet.</message>
+</record>
+<record>
+  <date>2013-12-10T17:10:00</date>
+  <millis>1386691800236</millis>
+  <sequence>160</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert wie gesagt, vor ca. einer Stunde hats auch noch funktioniert ohne das es bei mir ne Änderung gegeben hätte...</message>
+</record>
+<record>
+  <date>2013-12-10T17:10:00</date>
+  <millis>1386691800236</millis>
+  <sequence>161</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert wie gesagt, vor ca. einer Stunde hats auch noch funktioniert ohne das es bei mir ne Änderung gegeben hätte...</message>
+</record>
+<record>
+  <date>2013-12-10T17:10:00</date>
+  <millis>1386691800236</millis>
+  <sequence>162</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert wie gesagt, vor ca. einer Stunde hats auch noch funktioniert ohne das es bei mir ne Änderung gegeben hätte...</message>
+</record>
+<record>
+  <date>2013-12-10T17:10:25</date>
+  <millis>1386691825403</millis>
+  <sequence>163</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:marsiii!~mars@mangkut.bug.ch PRIVMSG #tierwiese :ne, ich sitz grad im proggrn tut</message>
+</record>
+<record>
+  <date>2013-12-10T17:10:25</date>
+  <millis>1386691825409</millis>
+  <sequence>164</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#tierwiese] &lt;marsiii&gt;:ne, ich sitz grad im proggrn tut</message>
+</record>
+<record>
+  <date>2013-12-10T17:11:36</date>
+  <millis>1386691896083</millis>
+  <sequence>165</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:exxe!~chatzilla@p5DD68E70.dip0.t-ipconnect.de PRIVMSG #voodooalert :is aber sehr merkwürdig </message>
+</record>
+<record>
+  <date>2013-12-10T17:11:36</date>
+  <millis>1386691896083</millis>
+  <sequence>166</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;exxe&gt;:is aber sehr merkwürdig </message>
+</record>
+<record>
+  <date>2013-12-10T17:12:20</date>
+  <millis>1386691940594</millis>
+  <sequence>167</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:exxe!~chatzilla@p5DD68E70.dip0.t-ipconnect.de PRIVMSG #voodooalert :http://www.voodooalert.de/board/index.php?page=Thread&amp;threadID=20184</message>
+</record>
+<record>
+  <date>2013-12-10T17:12:20</date>
+  <millis>1386691940594</millis>
+  <sequence>168</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;exxe&gt;:http://www.voodooalert.de/board/index.php?page=Thread&amp;threadID=20184</message>
+</record>
+<record>
+  <date>2013-12-10T17:12:34</date>
+  <millis>1386691954402</millis>
+  <sequence>169</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Giovannie!~UNIX@scc-wkit-clx-231-100.scc.kit.edu PRIVMSG #voodooalert :thx</message>
+</record>
+<record>
+  <date>2013-12-10T17:12:34</date>
+  <millis>1386691954402</millis>
+  <sequence>170</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Giovannie&gt;:thx</message>
+</record>
+<record>
+  <date>2013-12-10T17:12:59</date>
+  <millis>1386691979916</millis>
+  <sequence>171</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:12:59</date>
+  <millis>1386691979916</millis>
+  <sequence>172</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:14:51</date>
+  <millis>1386692091682</millis>
+  <sequence>173</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:exxe!~chatzilla@p5DD68E70.dip0.t-ipconnect.de PRIVMSG #voodooalert :aber wirkloch was bringen word nicht</message>
+</record>
+<record>
+  <date>2013-12-10T17:14:51</date>
+  <millis>1386692091682</millis>
+  <sequence>174</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;exxe&gt;:aber wirkloch was bringen word nicht</message>
+</record>
+<record>
+  <date>2013-12-10T17:15:50</date>
+  <millis>1386692150547</millis>
+  <sequence>175</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:exxe!~chatzilla@p5DD68E70.dip0.t-ipconnect.de PRIVMSG #voodooalert :denk ich</message>
+</record>
+<record>
+  <date>2013-12-10T17:15:50</date>
+  <millis>1386692150547</millis>
+  <sequence>176</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;exxe&gt;:denk ich</message>
+</record>
+<record>
+  <date>2013-12-10T17:15:59</date>
+  <millis>1386692159979</millis>
+  <sequence>177</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:15:59</date>
+  <millis>1386692159979</millis>
+  <sequence>178</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:16:11</date>
+  <millis>1386692171837</millis>
+  <sequence>179</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert vermutlich nicht, kommt drauf an. Wenns wirklich am VA liegt dann muss ernesto irgendwas geändert haben. Das könnte er dann zurück ändern.</message>
+</record>
+<record>
+  <date>2013-12-10T17:16:11</date>
+  <millis>1386692171837</millis>
+  <sequence>180</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert vermutlich nicht, kommt drauf an. Wenns wirklich am VA liegt dann muss ernesto irgendwas geändert haben. Das könnte er dann zurück ändern.</message>
+</record>
+<record>
+  <date>2013-12-10T17:16:11</date>
+  <millis>1386692171837</millis>
+  <sequence>181</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert vermutlich nicht, kommt drauf an. Wenns wirklich am VA liegt dann muss ernesto irgendwas geändert haben. Das könnte er dann zurück ändern.</message>
+</record>
+<record>
+  <date>2013-12-10T17:16:29</date>
+  <millis>1386692189143</millis>
+  <sequence>182</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert ansonsten muss ich hoffen das es später wieder funktioniert^^</message>
+</record>
+<record>
+  <date>2013-12-10T17:16:29</date>
+  <millis>1386692189143</millis>
+  <sequence>183</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert ansonsten muss ich hoffen das es später wieder funktioniert^^</message>
+</record>
+<record>
+  <date>2013-12-10T17:16:29</date>
+  <millis>1386692189143</millis>
+  <sequence>184</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert ansonsten muss ich hoffen das es später wieder funktioniert^^</message>
+</record>
+<record>
+  <date>2013-12-10T17:17:23</date>
+  <millis>1386692243989</millis>
+  <sequence>185</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Giovannie!~UNIX@scc-wkit-clx-231-100.scc.kit.edu PRIVMSG #tierwiese :ah. Spannend.</message>
+</record>
+<record>
+  <date>2013-12-10T17:17:23</date>
+  <millis>1386692243990</millis>
+  <sequence>186</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#tierwiese] &lt;Giovannie&gt;:ah. Spannend.</message>
+</record>
+<record>
+  <date>2013-12-10T17:19:28</date>
+  <millis>1386692368886</millis>
+  <sequence>187</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:19:28</date>
+  <millis>1386692368886</millis>
+  <sequence>188</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:22:28</date>
+  <millis>1386692548894</millis>
+  <sequence>189</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:22:28</date>
+  <millis>1386692548894</millis>
+  <sequence>190</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:25:28</date>
+  <millis>1386692728877</millis>
+  <sequence>191</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:25:28</date>
+  <millis>1386692728877</millis>
+  <sequence>192</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:25:39</date>
+  <millis>1386692739669</millis>
+  <sequence>193</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de JOIN #voodooalert</message>
+</record>
+<record>
+  <date>2013-12-10T17:25:39</date>
+  <millis>1386692739669</millis>
+  <sequence>194</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Quasimodo&gt; joined.</message>
+</record>
+<record>
+  <date>2013-12-10T17:28:28</date>
+  <millis>1386692908874</millis>
+  <sequence>195</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:28:28</date>
+  <millis>1386692908874</millis>
+  <sequence>196</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:31:28</date>
+  <millis>1386693088877</millis>
+  <sequence>197</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:31:28</date>
+  <millis>1386693088877</millis>
+  <sequence>198</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:32:12</date>
+  <millis>1386693132666</millis>
+  <sequence>199</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert moin Bier</message>
+</record>
+<record>
+  <date>2013-12-10T17:32:12</date>
+  <millis>1386693132666</millis>
+  <sequence>200</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert moin Bier</message>
+</record>
+<record>
+  <date>2013-12-10T17:32:12</date>
+  <millis>1386693132666</millis>
+  <sequence>201</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert moin Bier</message>
+</record>
+<record>
+  <date>2013-12-10T17:32:26</date>
+  <millis>1386693146666</millis>
+  <sequence>202</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert voodooalert gelesen? ich komme nicht rein...</message>
+</record>
+<record>
+  <date>2013-12-10T17:32:26</date>
+  <millis>1386693146666</millis>
+  <sequence>203</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert voodooalert gelesen? ich komme nicht rein...</message>
+</record>
+<record>
+  <date>2013-12-10T17:32:26</date>
+  <millis>1386693146666</millis>
+  <sequence>204</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert voodooalert gelesen? ich komme nicht rein...</message>
+</record>
+<record>
+  <date>2013-12-10T17:32:47</date>
+  <millis>1386693167664</millis>
+  <sequence>205</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Giovannie!~UNIX@scc-wkit-clx-231-100.scc.kit.edu MODE #voodooalert +o Quasimodo</message>
+</record>
+<record>
+  <date>2013-12-10T17:32:47</date>
+  <millis>1386693167664</millis>
+  <sequence>206</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :Giovannie!~UNIX@scc-wkit-clx-231-100.scc.kit.edu MODE #voodooalert +o Quasimodo</message>
+</record>
+<record>
+  <date>2013-12-10T17:33:20</date>
+  <millis>1386693200875</millis>
+  <sequence>207</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de PRIVMSG #voodooalert :jo</message>
+</record>
+<record>
+  <date>2013-12-10T17:33:20</date>
+  <millis>1386693200876</millis>
+  <sequence>208</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Quasimodo&gt;:jo</message>
+</record>
+<record>
+  <date>2013-12-10T17:33:25</date>
+  <millis>1386693205066</millis>
+  <sequence>209</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de PRIVMSG #voodooalert :pech gehabt</message>
+</record>
+<record>
+  <date>2013-12-10T17:33:25</date>
+  <millis>1386693205067</millis>
+  <sequence>210</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Quasimodo&gt;:pech gehabt</message>
+</record>
+<record>
+  <date>2013-12-10T17:33:35</date>
+  <millis>1386693215765</millis>
+  <sequence>211</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de PRIVMSG #voodooalert :gib mir mal deine login daten</message>
+</record>
+<record>
+  <date>2013-12-10T17:33:35</date>
+  <millis>1386693215765</millis>
+  <sequence>212</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Quasimodo&gt;:gib mir mal deine login daten</message>
+</record>
+<record>
+  <date>2013-12-10T17:33:56</date>
+  <millis>1386693236873</millis>
+  <sequence>213</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:exxe!~chatzilla@p5DD68E70.dip0.t-ipconnect.de PRIVMSG #voodooalert :sagte die mail von der bank</message>
+</record>
+<record>
+  <date>2013-12-10T17:33:56</date>
+  <millis>1386693236873</millis>
+  <sequence>214</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;exxe&gt;:sagte die mail von der bank</message>
+</record>
+<record>
+  <date>2013-12-10T17:34:09</date>
+  <millis>1386693249404</millis>
+  <sequence>215</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert ^^</message>
+</record>
+<record>
+  <date>2013-12-10T17:34:09</date>
+  <millis>1386693249404</millis>
+  <sequence>216</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert ^^</message>
+</record>
+<record>
+  <date>2013-12-10T17:34:09</date>
+  <millis>1386693249404</millis>
+  <sequence>217</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert ^^</message>
+</record>
+<record>
+  <date>2013-12-10T17:34:22</date>
+  <millis>1386693262360</millis>
+  <sequence>218</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de PRIVMSG #voodooalert :info@sparkasse.de</message>
+</record>
+<record>
+  <date>2013-12-10T17:34:22</date>
+  <millis>1386693262360</millis>
+  <sequence>219</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Quasimodo&gt;:info@sparkasse.de</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:06</date>
+  <millis>1386693366970</millis>
+  <sequence>220</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de PRIVMSG #voodooalert :du hast noch viel zu lesen Giovannie</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:06</date>
+  <millis>1386693366970</millis>
+  <sequence>221</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Quasimodo&gt;:du hast noch viel zu lesen Giovannie</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:14</date>
+  <millis>1386693374406</millis>
+  <sequence>222</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Giovannie!~UNIX@scc-wkit-clx-231-100.scc.kit.edu PRIVMSG #voodooalert :ich weiß</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:14</date>
+  <millis>1386693374406</millis>
+  <sequence>223</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Giovannie&gt;:ich weiß</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:15</date>
+  <millis>1386693375933</millis>
+  <sequence>224</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de PRIVMSG #voodooalert :Opera geht</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:15</date>
+  <millis>1386693375933</millis>
+  <sequence>225</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Quasimodo&gt;:Opera geht</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:17</date>
+  <millis>1386693377643</millis>
+  <sequence>226</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Giovannie!~UNIX@scc-wkit-clx-231-100.scc.kit.edu PRIVMSG #voodooalert :du kommst rein?</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:17</date>
+  <millis>1386693377643</millis>
+  <sequence>227</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Giovannie&gt;:du kommst rein?</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:19</date>
+  <millis>1386693379527</millis>
+  <sequence>228</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Giovannie!~UNIX@scc-wkit-clx-231-100.scc.kit.edu PRIVMSG #voodooalert :komisch</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:19</date>
+  <millis>1386693379527</millis>
+  <sequence>229</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Giovannie&gt;:komisch</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:19</date>
+  <millis>1386693379885</millis>
+  <sequence>230</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de PRIVMSG #voodooalert :ja</message>
+</record>
+<record>
+  <date>2013-12-10T17:36:19</date>
+  <millis>1386693379885</millis>
+  <sequence>231</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Quasimodo&gt;:ja</message>
+</record>
+<record>
+  <date>2013-12-10T17:37:08</date>
+  <millis>1386693428863</millis>
+  <sequence>232</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:37:08</date>
+  <millis>1386693428863</millis>
+  <sequence>233</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:38:02</date>
+  <millis>1386693482045</millis>
+  <sequence>234</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Giovannie!~UNIX@scc-wkit-clx-231-100.scc.kit.edu PRIVMSG #voodooalert :jetzt gehts auch bei mir wieder</message>
+</record>
+<record>
+  <date>2013-12-10T17:38:02</date>
+  <millis>1386693482045</millis>
+  <sequence>235</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Giovannie&gt;:jetzt gehts auch bei mir wieder</message>
+</record>
+<record>
+  <date>2013-12-10T17:38:13</date>
+  <millis>1386693493345</millis>
+  <sequence>236</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de PRIVMSG #voodooalert :hmmh k</message>
+</record>
+<record>
+  <date>2013-12-10T17:38:13</date>
+  <millis>1386693493345</millis>
+  <sequence>237</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Quasimodo&gt;:hmmh k</message>
+</record>
+<record>
+  <date>2013-12-10T17:40:08</date>
+  <millis>1386693608870</millis>
+  <sequence>238</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:40:08</date>
+  <millis>1386693608871</millis>
+  <sequence>239</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:06</date>
+  <millis>1386693786084</millis>
+  <sequence>240</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert Bier, kennst du einen Channel wo extrem viel los ist und wo es die Leute nicht stört wenn ich meinen Client da teste?</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:06</date>
+  <millis>1386693786084</millis>
+  <sequence>241</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert Bier, kennst du einen Channel wo extrem viel los ist und wo es die Leute nicht stört wenn ich meinen Client da teste?</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:06</date>
+  <millis>1386693786085</millis>
+  <sequence>242</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert Bier, kennst du einen Channel wo extrem viel los ist und wo es die Leute nicht stört wenn ich meinen Client da teste?</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:28</date>
+  <millis>1386693808752</millis>
+  <sequence>243</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert hat gerade gelernt das logs nicht beliebig groß werden dürfen und wüsste gerne ob das klappt</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:28</date>
+  <millis>1386693808752</millis>
+  <sequence>244</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert hat gerade gelernt das logs nicht beliebig groß werden dürfen und wüsste gerne ob das klappt</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:28</date>
+  <millis>1386693808752</millis>
+  <sequence>245</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert hat gerade gelernt das logs nicht beliebig groß werden dürfen und wüsste gerne ob das klappt</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:43</date>
+  <millis>1386693823747</millis>
+  <sequence>246</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert aber 1MB log muss man erstmal bekommen</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:43</date>
+  <millis>1386693823747</millis>
+  <sequence>247</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert aber 1MB log muss man erstmal bekommen</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:43</date>
+  <millis>1386693823747</millis>
+  <sequence>248</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert aber 1MB log muss man erstmal bekommen</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:55</date>
+  <millis>1386693835108</millis>
+  <sequence>249</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: #voodooalert bin bei 100KB aktuell</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:55</date>
+  <millis>1386693835108</millis>
+  <sequence>250</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /msg #voodooalert bin bei 100KB aktuell</message>
+</record>
+<record>
+  <date>2013-12-10T17:43:55</date>
+  <millis>1386693835112</millis>
+  <sequence>251</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/msg #voodooalert bin bei 100KB aktuell</message>
+</record>
+<record>
+  <date>2013-12-10T17:44:40</date>
+  <millis>1386693880477</millis>
+  <sequence>252</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:exxe!~chatzilla@p5DD68E70.dip0.t-ipconnect.de PRIVMSG #voodooalert :gibts nich was wie cumouterbse oder hwluxx ?</message>
+</record>
+<record>
+  <date>2013-12-10T17:44:40</date>
+  <millis>1386693880477</millis>
+  <sequence>253</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;exxe&gt;:gibts nich was wie cumouterbse oder hwluxx ?</message>
+</record>
+<record>
+  <date>2013-12-10T17:46:54</date>
+  <millis>1386694014852</millis>
+  <sequence>254</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>PING  :portlane.se.quakenet.org</message>
+</record>
+<record>
+  <date>2013-12-10T17:46:54</date>
+  <millis>1386694014852</millis>
+  <sequence>255</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: PING/PONG</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:12</date>
+  <millis>1386694032862</millis>
+  <sequence>256</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de QUIT  :Ping timeout</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:12</date>
+  <millis>1386694032863</millis>
+  <sequence>257</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: :Quasimodo!~bierjpg@ip-2-206-12-180.web.vodafone.de QUIT  :Ping timeout</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:21</date>
+  <millis>1386694041117</millis>
+  <sequence>258</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Giovannie!~UNIX@scc-wkit-clx-231-100.scc.kit.edu PRIVMSG #voodooalert :hmm, muss mal grad meinen client neustarten um updates reinzuholen</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:21</date>
+  <millis>1386694041118</millis>
+  <sequence>259</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Giovannie&gt;:hmm, muss mal grad meinen client neustarten um updates reinzuholen</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:40</date>
+  <millis>1386694060579</millis>
+  <sequence>260</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>:Giovannie!~UNIX@scc-wkit-clx-231-100.scc.kit.edu PRIVMSG #voodooalert :am update ohne neustart muss erst noch gearbeitet werden...</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:40</date>
+  <millis>1386694060579</millis>
+  <sequence>261</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>13</thread>
+  <message>UserMessage: [#voodooalert] &lt;Giovannie&gt;:am update ohne neustart muss erst noch gearbeitet werden...</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:47</date>
+  <millis>1386694067499</millis>
+  <sequence>262</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserCommand: /exit</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:47</date>
+  <millis>1386694067499</millis>
+  <sequence>263</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>15</thread>
+  <message>UserMessage: /exit</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:47</date>
+  <millis>1386694067499</millis>
+  <sequence>264</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>/exit /exit</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:47</date>
+  <millis>1386694067499</millis>
+  <sequence>265</sequence>
+  <level>FINEST</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>UserMessage: Program Exit.</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:47</date>
+  <millis>1386694067499</millis>
+  <sequence>266</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Client Closeing.</message>
+</record>
+<record>
+  <date>2013-12-10T17:47:47</date>
+  <millis>1386694067499</millis>
+  <sequence>267</sequence>
+  <level>INFO</level>
+  <class>ms.irc.bot.filesystem.IRCLogger</class>
+  <method>run</method>
+  <thread>14</thread>
+  <message>Disconnecting.</message>
+</record>
+</log>
