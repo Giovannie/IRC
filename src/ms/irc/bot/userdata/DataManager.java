@@ -2,6 +2,7 @@ package ms.irc.bot.userdata;
 
 import java.util.Collection;
 import java.util.concurrent.ConcurrentHashMap;
+import java.util.logging.Level;
 
 import ms.irc.bot.IRCnet;
 
@@ -90,5 +91,32 @@ public class DataManager {
      */
     public void addNick(Nick nick) {
         nicks.put(nick.getNick(), nick);
+    }
+
+    /**
+     * changes a nickname (normally if received a NICK command)
+     * 
+     * @param oldnick a String
+     * @param newnick a String
+     */
+    public void changeNick(String oldnick, String newnick) {
+        
+        if (oldnick == null || newnick == null)
+            throw new IllegalArgumentException("Got a null argument while trying to change a nickname.");
+        
+        Nick nick = getNick(oldnick);
+        //check if nick existed
+        if (nick == null) {
+            ircCore.addLogEntry(Level.WARNING, "Tried to change nonexistent Nickname. Creating new Nick.");
+            addNick(new Nick(newnick, null, null, ircCore));
+            return;
+        }
+        
+        //change nick
+        nicks.remove(oldnick);
+        nick.setNick(newnick);
+        nicks.put(newnick, nick);
+        
+        return;
     }
 }

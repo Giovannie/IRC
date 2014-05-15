@@ -6,6 +6,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 import ms.irc.bot.IRCnet;
 import ms.irc.bot.command.server.SDefaultCommand;
 import ms.irc.bot.command.server.SJoinCommand;
+import ms.irc.bot.command.server.SNickCommand;
 import ms.irc.bot.command.server.SNoticeCommand;
 import ms.irc.bot.command.server.SNummericCommand;
 import ms.irc.bot.command.server.SPartCommand;
@@ -105,6 +106,7 @@ public class IRCCommandManager implements Runnable {
 //		commands.put("PASS", TODO);
 //		commands.put("NICK", TODO);
 //		commands.put("USER", value);
+		
 //		commands.put("QUIT", value);
 //		commands.put("SQUIT", value);//probably I'll never use this
 		
@@ -113,6 +115,7 @@ public class IRCCommandManager implements Runnable {
 //		commands.put("MODE", new SModeCommand());
 //		commands.put("TOPIC", value);
 //		commands.put("NAMES", value);
+		commands.put("NICK", new SNickCommand());
 //		commands.put("LIST", arg1);
 //		commands.put("INVITE", value);
 //		commands.put("KICK", value);
