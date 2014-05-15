@@ -72,6 +72,10 @@ public class RSAEncryptedOutputStream extends OutputStream {
 	    out.close();
 	}
 	
+	/**
+	 * Note/TODO: encrypting blockwise. Thus trailing zeros
+	 *     will be added to block when flushing during stream.
+	 */
 	@Override
 	public void flush() throws IOException {
         try {
