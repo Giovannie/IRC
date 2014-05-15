@@ -3,6 +3,12 @@ package ms.irc.bot.command.general;
 import ms.irc.bot.IRCnet;
 import ms.irc.bot.userdata.Message;
 
+/**
+ * Simple interface for Message processing.
+ * 
+ * @author Giovannie
+ * @version 1.0.0
+ */
 public interface MessageCommand {
 
 	/**

@@ -15,18 +15,19 @@ public class SJoinCommand implements MessageCommand {
 		}
 		
 		String chanName = m.getParams()[0];
-		Channel jChan = ircCore.getChannel(chanName);
+		Channel jChan = ircCore.getDataManager().getChannel(chanName);
 		
 		//test if jChan exists (if not create it)
 		if (jChan == null) {
 			jChan = new Channel(chanName, ircCore);
-			ircCore.addChannel(jChan);
+			ircCore.getDataManager().addChannel(jChan);
 		}
+		jChan.setActive(true);
 		
-		Nick newNick = ircCore.getUser(m.getNick());
+		Nick newNick = ircCore.getDataManager().getNick(m.getNick());
 		if (newNick == null) {
 			newNick = new Nick(m.getPrefix(), ircCore);
-			ircCore.addUser(newNick);
+			ircCore.getDataManager().addNick(newNick);
 		}
 		jChan.addUser(newNick);
 		

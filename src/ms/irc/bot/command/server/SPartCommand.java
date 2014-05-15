@@ -15,18 +15,18 @@ public class SPartCommand implements MessageCommand {
 		}
 		
 		String chanName = m.getParams()[0];
-		Channel pChan = ircCore.getChannel(chanName);
+		Channel pChan = ircCore.getDataManager().getChannel(chanName);
 		
 		//this should never happen, as I have to join a channel bevor being able to see any PARTs
 		if (pChan == null) {
 			pChan = new Channel(chanName, ircCore);
-			ircCore.addChannel(pChan);
+			ircCore.getDataManager().addChannel(pChan);
 		}
 		
-		Nick partNick = ircCore.getUser(m.getNick());
+		Nick partNick = ircCore.getDataManager().getNick(m.getNick());
 		if (partNick == null) {
 			partNick = new Nick(m.getPrefix(), ircCore);
-			ircCore.addUser(partNick);
+			ircCore.getDataManager().addNick(partNick);
 		}
 		
 		pChan.deleteUser(partNick);

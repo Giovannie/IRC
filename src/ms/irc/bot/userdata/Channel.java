@@ -10,6 +10,7 @@ public class Channel {
 	private IRCnet ircCore;
 	private String chanName;
 	private String topic;
+    private boolean active;
 	
 	public Channel(String chanName, IRCnet ircCore) {
 		if (chanName == null || ircCore == null)
@@ -59,5 +60,13 @@ public class Channel {
 	public void setTopic(String topic) {
 		this.topic = topic;
 	}
+
+    public void setActive(boolean active) {
+        this.active = active;
+    }
+    
+    public boolean isActive() {
+        return active;
+    }
 
 }

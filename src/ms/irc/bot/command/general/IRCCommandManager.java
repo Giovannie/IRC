@@ -19,6 +19,7 @@ import ms.irc.bot.command.user.UConnectCommand;
 import ms.irc.bot.command.user.UEasyCommand;
 import ms.irc.bot.command.user.UExitCommand;
 import ms.irc.bot.command.user.UHelpCommand;
+import ms.irc.bot.command.user.UJoinCommand;
 import ms.irc.bot.command.user.UMsgCommand;
 import ms.irc.bot.command.user.UNoticeCommand;
 import ms.irc.bot.command.user.UPartCommand;
@@ -95,6 +96,9 @@ public class IRCCommandManager implements Runnable {
 		}
 	}
 	
+	/*
+	 * TODO: implement unimplemented commands
+	 */
 	private void initializeCommands() {
 		defaultCmd = new SDefaultCommand();
 		
@@ -126,7 +130,7 @@ public class IRCCommandManager implements Runnable {
 		
 	}
 	
-	/**
+	/*
 	 * TODO: implement unimplemented commands (some more might be implemented
 	 * 		by UEasyCommand which just sends the command (in capitals without
 	 * 		leading / ) and parses all the rest as simple params.
@@ -145,7 +149,7 @@ public class IRCCommandManager implements Runnable {
 		commands.put("/info", easyCommand);
 		commands.put("/invite", easyCommand);
 		commands.put("/ison", easyCommand);
-		commands.put("/join", easyCommand);
+		commands.put("/join", new UJoinCommand());
 //		commands.put("/kick", new UKickCommand());
 //		commands.put("/knock", new UKnockCommand());
 		commands.put("/list", easyCommand);

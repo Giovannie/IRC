@@ -17,6 +17,7 @@ import ms.irc.bot.command.general.IRCCommandManager;
 import ms.irc.bot.filesystem.IRCFileSystem;
 import ms.irc.bot.filesystem.IRCLogger;
 import ms.irc.bot.userdata.Channel;
+import ms.irc.bot.userdata.DataManager;
 import ms.irc.bot.userdata.Message;
 import ms.irc.bot.userdata.Nick;
 
@@ -45,19 +46,17 @@ import ms.irc.bot.userdata.Nick;
  * TODO: Logging Structure rewrite, don't use IRCnet.java to pass messages to the Logger.
  * 
  * @author Giovannie
- * @version 0.3.5
+ * @version 0.3.6
  *
  */
 public class IRCnet implements Thread.UncaughtExceptionHandler{
 
 	private String server;
-	private ArrayList<Channel> channel;
-	private ConcurrentHashMap<String, Nick> nicks;
 	private int port = -1;
 	private String nick;
 	private String serverPW;
 	private String user = "aicab";
-	private String buildNr = "0.3.5";
+	private String buildNr = "0.3.6";
 	
 	//some properties and Logger containing the log and config data.
 	private IRCLogger ircLogger;
@@ -87,6 +86,7 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 	private Thread ircLoggerThread;
 	
 	private IRCWriter ircWriter;
+    private final DataManager dataManager;
 	
 	/**
 	 * Constructor of Class IRCnet
@@ -94,8 +94,8 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 	public IRCnet() {
 		
 		registered = false;
-		channel = new ArrayList<Channel>();
-		nicks = new ConcurrentHashMap<String, Nick>();
+		
+		dataManager = new DataManager();
 		
 		//initialize the config
 		config = new Properties();
@@ -357,35 +357,6 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 		return userStrings;
 	}
 
-	//TODO: ArrayList is NOT Threadsafe...
-	public ArrayList<Channel> getChannels() {
-		return channel;
-	}
-
-	/**
-	 * Adds a channel to the internal list of known channels.
-	 * 
-	 * @param chan a Channel
-	 */
-	public void addChannel(Channel chan) {
-		channel.add(chan);
-	}
-
-	/**
-	 * Searches the internal channel list for a channel with the given name.
-	 * 
-	 * @param chanName a String
-	 * @return a Channel
-	 */
-	public Channel getChannel(String chanName) {
-		for (Channel chan : channel) {
-			if (chan.getChanName().equals(chanName)) {
-				return chan;
-			}
-		}
-		return null;
-	}
-
 	public void register() {
 		registered = true;
 		
@@ -397,23 +368,12 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 	}
 	
 	/**
-	 * TODO: extract user management to an external class
-	 *     in package ms.irc.bot.userdata
-	 * @return
+	 * returns the own nick of this client.
+	 * 
+	 * @return the String representation of the clients own nickname
 	 */
 	public String getNick() {
 		return nick;
-	}
-	
-	public Nick getUser(String nick) {
-		if (nick == null) {
-			return null;
-		}
-		return nicks.get(nick);
-	}
-	
-	public void addUser(Nick nick) {
-		nicks.put(nick.getNick(), nick);
 	}
 	
 	public void addLogEntry(String message) {
@@ -484,6 +444,17 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 		System.exit(0);
 	}
 
+	/**
+	 * Returns this irc clients DataManager, for adding,
+	 * editing or deleting information about some irc user,
+	 * channel etc.
+	 * 
+	 * @return a DataManager
+	 */
+	public DataManager getDataManager() {
+	    return dataManager;
+	}
+	
 	/**
 	 * here I'm catching all Exceptions and restarting the corresponding modul.
 	 * 
