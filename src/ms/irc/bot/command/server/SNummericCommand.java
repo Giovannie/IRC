@@ -2,6 +2,8 @@ package ms.irc.bot.command.server;
 
 import ms.irc.bot.IRCnet;
 import ms.irc.bot.command.general.MessageCommand;
+import ms.irc.bot.command.server.numeric.NOnlyUserInfo;
+import ms.irc.bot.command.server.numeric.NRegistrationCommand;
 import ms.irc.bot.command.server.numeric.NUnknownCommand;
 import ms.irc.bot.userdata.Message;
 
@@ -11,7 +13,14 @@ public class SNummericCommand implements MessageCommand {
     NUnknownCommand unknown;
     
     public SNummericCommand() {
+        //TODO:initialise only partly and rest on demand for perfomance?
         commands = new MessageCommand[1000];
+        MessageCommand info = new NOnlyUserInfo();
+        commands[1] = info;//Welcome Message
+        commands[2] = info;
+        commands[3] = info;
+        commands[4] = new NRegistrationCommand();
+        
         unknown = new NUnknownCommand();
     }
     
@@ -25,11 +34,6 @@ public class SNummericCommand implements MessageCommand {
 		}
 		
 		commands[t].executeCommand(m, ircCore);
-		
-		//TODO: copy paste to numeric command 4
-		if (t == 4) {
-			ircCore.register();
-		}
 	}
 
 }
