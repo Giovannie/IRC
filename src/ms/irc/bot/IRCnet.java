@@ -25,8 +25,6 @@ import ms.irc.bot.userdata.Nick;
  * as an underlaying structure for (GUI-based)
  * IRC-Clients or IRC-Bot.
  * 
- * TODO: general: never directly return Strings (Message, Nick, etc...) always return copies (for encapsulation)
- * 
  * TODO: UserManagement
  * 
  * TODO: Restart
@@ -41,6 +39,10 @@ import ms.irc.bot.userdata.Nick;
  * TODO: decoding does not work with Latin/Unicode Hybrid Encoding
  * 
  * TODO: /msg bla: or /notice bla: puts an aditional blank befor the :
+ * 
+ * TODO: add Javadoc comments
+ * 
+ * TODO: Logging Structure rewrite, don't use IRCnet.java to pass messages to the Logger.
  * 
  * @author Giovannie
  * @version 0.3.5
@@ -394,6 +396,11 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 		}
 	}
 	
+	/**
+	 * TODO: extract user management to an external class
+	 *     in package ms.irc.bot.userdata
+	 * @return
+	 */
 	public String getNick() {
 		return nick;
 	}
@@ -479,6 +486,8 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 
 	/**
 	 * here I'm catching all Exceptions and restarting the corresponding modul.
+	 * 
+	 * TODO: separate exception Handling from core class
 	 */
 	@Override
 	public void uncaughtException(Thread t, Throwable e) {
