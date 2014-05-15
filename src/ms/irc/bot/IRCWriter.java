@@ -4,6 +4,8 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.util.concurrent.LinkedBlockingQueue;
 
+import ms.irc.bot.userdata.Message;
+
 /**
  * Writes IRC Messages to a BufferedWriter
  * 

@@ -1,8 +1,8 @@
 package ms.irc.bot.command.configure;
 
 import ms.irc.bot.IRCnet;
-import ms.irc.bot.Message;
 import ms.irc.bot.command.general.MessageCommand;
+import ms.irc.bot.userdata.Message;
 
 public class CSaveConfig implements MessageCommand {
 

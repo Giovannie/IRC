@@ -16,6 +16,9 @@ import java.util.logging.LogRecord;
 import ms.irc.bot.command.general.IRCCommandManager;
 import ms.irc.bot.filesystem.IRCFileSystem;
 import ms.irc.bot.filesystem.IRCLogger;
+import ms.irc.bot.userdata.Channel;
+import ms.irc.bot.userdata.Message;
+import ms.irc.bot.userdata.Nick;
 
 /**
  * This is the Core of the IRC Client. May be used

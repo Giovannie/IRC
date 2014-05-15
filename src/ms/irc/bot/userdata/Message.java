@@ -1,4 +1,4 @@
-package ms.irc.bot;
+package ms.irc.bot.userdata;
 
 /**
  * 

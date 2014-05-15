@@ -1,7 +1,7 @@
 package ms.irc.bot.command.general;
 
 import ms.irc.bot.IRCnet;
-import ms.irc.bot.Message;
+import ms.irc.bot.userdata.Message;
 
 public interface MessageCommand {
 

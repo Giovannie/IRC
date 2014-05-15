@@ -1,4 +1,6 @@
-package ms.irc.bot;
+package ms.irc.bot.userdata;
+
+import ms.irc.bot.IRCnet;
 
 /**
  * 

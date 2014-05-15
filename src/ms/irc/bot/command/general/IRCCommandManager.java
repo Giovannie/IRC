@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.concurrent.LinkedBlockingQueue;
 
 import ms.irc.bot.IRCnet;
-import ms.irc.bot.Message;
 import ms.irc.bot.command.server.SDefaultCommand;
 import ms.irc.bot.command.server.SJoinCommand;
 import ms.irc.bot.command.server.SNoticeCommand;
@@ -25,6 +24,7 @@ import ms.irc.bot.command.user.UNoticeCommand;
 import ms.irc.bot.command.user.UPartCommand;
 import ms.irc.bot.command.user.UQuitCommand;
 import ms.irc.bot.command.user.UUnknownCommand;
+import ms.irc.bot.userdata.Message;
 
 /**
  * The IRCCommandManager

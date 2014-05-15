@@ -4,6 +4,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.util.concurrent.LinkedBlockingQueue;
 
+import ms.irc.bot.userdata.Message;
+
 /**
  * Class designed for nothing else than listening for
  * IRC messages on a given reader.

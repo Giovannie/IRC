@@ -1,8 +1,8 @@
 package ms.irc.bot.command.server;
 
 import ms.irc.bot.IRCnet;
-import ms.irc.bot.Message;
 import ms.irc.bot.command.general.MessageCommand;
+import ms.irc.bot.userdata.Message;
 
 public class SPingCommand implements MessageCommand {
 

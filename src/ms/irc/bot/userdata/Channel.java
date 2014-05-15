@@ -1,6 +1,8 @@
-package ms.irc.bot;
+package ms.irc.bot.userdata;
 
 import java.util.ArrayList;
+
+import ms.irc.bot.IRCnet;
 
 public class Channel {
 	
