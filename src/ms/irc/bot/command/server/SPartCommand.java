@@ -11,7 +11,7 @@ import ms.irc.bot.userdata.Nick;
  * command class for incoming PART commands
  * 
  * @author Giovannie
- * @version 1.0.2
+ * @version 1.0.3
  */
 public class SPartCommand implements MessageCommand {
 

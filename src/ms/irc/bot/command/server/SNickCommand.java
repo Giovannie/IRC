@@ -4,8 +4,13 @@ import ms.irc.bot.IRCnet;
 import ms.irc.bot.command.general.MessageCommand;
 import ms.irc.bot.userdata.DataManager;
 import ms.irc.bot.userdata.Message;
-import ms.irc.bot.userdata.Nick;
 
+/**
+ * command class to handle incoming NICK commands.
+ * 
+ * @author Giovannie
+ * @version 1.0.1
+ */
 public class SNickCommand implements MessageCommand {
 
     @Override

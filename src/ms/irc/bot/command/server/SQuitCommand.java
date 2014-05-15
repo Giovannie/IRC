@@ -5,12 +5,16 @@ import ms.irc.bot.command.general.MessageCommand;
 import ms.irc.bot.userdata.DataManager;
 import ms.irc.bot.userdata.Message;
 
+/**
+ * command class for incoming QUIT commands.
+ * 
+ * @author Giovannie
+ * @version 1.0.1
+ */
 public class SQuitCommand implements MessageCommand {
 
     @Override
     public void executeCommand(Message m, IRCnet ircCore) {
-
-
         /*
          * check params
          */
