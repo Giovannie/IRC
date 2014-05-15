@@ -17,10 +17,10 @@ public class SNoticeCommand implements MessageCommand {
 	     */
 	    
 	    /*
-	     * catch nick beeing null
+	     * catch nick being null (might occur on server messages
 	     */
 	    if (m.getNick() == null) {
-	        ircCore.putUM("<unbekannt (" + m.getPrefix() + ") flüstert>" + m.getTrailing());
+	        ircCore.putUM("<" + m.getPrefix() + " flüstert>: " + m.getTrailing());
 	        return;
 	    }
 
@@ -41,7 +41,7 @@ public class SNoticeCommand implements MessageCommand {
             /*
              * write message
              */
-			ircCore.putUM("<" + m.getNick() + " flüstert>" + m.getTrailing());
+			ircCore.putUM("<" + m.getNick() + " flüstert>: " + m.getTrailing());
 		} else {
             /*
              * adding/updating userdata
@@ -58,7 +58,7 @@ public class SNoticeCommand implements MessageCommand {
             /*
              * write message
              */
-			ircCore.putUM("[" + m.getParams()[0] + "] <" + m.getNick() + " flüstert>" + m.getTrailing());
+			ircCore.putUM("[" + m.getParams()[0] + "] <" + m.getNick() + " flüstert>: " + m.getTrailing());
 		}
 	}
 
