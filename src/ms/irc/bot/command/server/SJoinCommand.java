@@ -1,9 +1,10 @@
-package ms.irc.bot.command;
+package ms.irc.bot.command.server;
 
 import ms.irc.bot.Channel;
 import ms.irc.bot.IRCnet;
 import ms.irc.bot.Message;
 import ms.irc.bot.Nick;
+import ms.irc.bot.command.general.MessageCommand;
 
 public class SJoinCommand implements MessageCommand {
 

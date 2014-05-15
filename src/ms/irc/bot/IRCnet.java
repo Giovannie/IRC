@@ -13,7 +13,7 @@ import java.util.concurrent.LinkedBlockingQueue;
 import java.util.logging.Level;
 import java.util.logging.LogRecord;
 
-import ms.irc.bot.command.IRCCommandManager;
+import ms.irc.bot.command.general.IRCCommandManager;
 import ms.irc.bot.filesystem.IRCFileSystem;
 import ms.irc.bot.filesystem.IRCLogger;
 

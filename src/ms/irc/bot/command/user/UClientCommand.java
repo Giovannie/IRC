@@ -1,7 +1,11 @@
-package ms.irc.bot.command;
+package ms.irc.bot.command.user;
 
 import ms.irc.bot.IRCnet;
 import ms.irc.bot.Message;
+import ms.irc.bot.command.configure.CConfig;
+import ms.irc.bot.command.configure.CReadConfig;
+import ms.irc.bot.command.configure.CSaveConfig;
+import ms.irc.bot.command.general.MessageCommand;
 
 /**
  * 

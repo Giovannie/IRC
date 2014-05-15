@@ -1,4 +1,4 @@
-package ms.irc.bot.command;
+package ms.irc.bot.command.general;
 
 import ms.irc.bot.IRCnet;
 import ms.irc.bot.Message;

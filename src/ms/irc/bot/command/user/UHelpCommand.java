@@ -1,9 +1,10 @@
-package ms.irc.bot.command;
+package ms.irc.bot.command.user;
 
 import java.util.HashMap;
 
 import ms.irc.bot.IRCnet;
 import ms.irc.bot.Message;
+import ms.irc.bot.command.general.MessageCommand;
 import ms.irc.bot.filesystem.IRCFileSystem;
 
 public class UHelpCommand implements MessageCommand {

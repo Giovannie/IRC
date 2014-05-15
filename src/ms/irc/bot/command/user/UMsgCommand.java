@@ -1,9 +1,10 @@
-package ms.irc.bot.command;
+package ms.irc.bot.command.user;
 
 import ms.irc.bot.IRCnet;
 import ms.irc.bot.Message;
+import ms.irc.bot.command.general.MessageCommand;
 
-public class UNoticeCommand implements MessageCommand {
+public class UMsgCommand implements MessageCommand {
 
 	@Override
 	public void executeCommand(Message m, IRCnet ircCore) {
@@ -24,7 +25,7 @@ public class UNoticeCommand implements MessageCommand {
 		
 		params = new String[1];
 		params[0] = m.getParams()[0];
-		ircCore.write(new Message(null, "NOTICE", params, msg));
+		ircCore.write(new Message(null, "PRIVMSG", params, msg));
 	}
 
 }

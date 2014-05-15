@@ -1,10 +1,30 @@
-package ms.irc.bot.command;
+package ms.irc.bot.command.general;
 
 import java.util.HashMap;
 import java.util.concurrent.LinkedBlockingQueue;
 
 import ms.irc.bot.IRCnet;
 import ms.irc.bot.Message;
+import ms.irc.bot.command.server.SDefaultCommand;
+import ms.irc.bot.command.server.SJoinCommand;
+import ms.irc.bot.command.server.SNoticeCommand;
+import ms.irc.bot.command.server.SNummericCommand;
+import ms.irc.bot.command.server.SPartCommand;
+import ms.irc.bot.command.server.SPingCommand;
+import ms.irc.bot.command.server.SPrivmsgCommand;
+import ms.irc.bot.command.user.UActionCommand;
+import ms.irc.bot.command.user.UAwayCommand;
+import ms.irc.bot.command.user.UCTCPCommand;
+import ms.irc.bot.command.user.UClientCommand;
+import ms.irc.bot.command.user.UConnectCommand;
+import ms.irc.bot.command.user.UEasyCommand;
+import ms.irc.bot.command.user.UExitCommand;
+import ms.irc.bot.command.user.UHelpCommand;
+import ms.irc.bot.command.user.UMsgCommand;
+import ms.irc.bot.command.user.UNoticeCommand;
+import ms.irc.bot.command.user.UPartCommand;
+import ms.irc.bot.command.user.UQuitCommand;
+import ms.irc.bot.command.user.UUnknownCommand;
 
 /**
  * The IRCCommandManager

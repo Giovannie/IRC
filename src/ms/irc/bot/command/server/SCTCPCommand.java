@@ -1,9 +1,10 @@
-package ms.irc.bot.command;
+package ms.irc.bot.command.server;
 
 import java.util.Date;
 
 import ms.irc.bot.IRCnet;
 import ms.irc.bot.Message;
+import ms.irc.bot.command.general.MessageCommand;
 
 public class SCTCPCommand implements MessageCommand {
 
