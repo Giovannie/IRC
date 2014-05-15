@@ -426,6 +426,9 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 		addLogEntry(Level.INFO, "Config Update: " + name + ", " + value);
 	}
 	
+	public String getConfigEntry(String name) {
+	    return config.getProperty(name);
+	}
 	
 	public boolean saveConfig() {
 		if (IRCFileSystem.writeProperties(config, "config")) {
