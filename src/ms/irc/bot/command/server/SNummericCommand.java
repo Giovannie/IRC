@@ -26,6 +26,7 @@ public class SNummericCommand implements MessageCommand {
 		
 		commands[t].executeCommand(m, ircCore);
 		
+		//TODO: copy paste to numeric command 4
 		if (t == 4) {
 			ircCore.register();
 		}
