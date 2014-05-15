@@ -29,7 +29,7 @@ public class SQuitCommand implements MessageCommand {
         /*
          * write message
          */
-        ircCore.putUM("<" + m.getNick() + "> quit irc); " + m.getTrailing());
+        ircCore.putUM("<" + m.getNick() + "> quit irc): " + m.getTrailing());
     }
 
 }
