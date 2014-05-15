@@ -427,7 +427,11 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 	}
 	
 	public String getConfigEntry(String name) {
-	    return config.getProperty(name);
+	    if (name == null)
+	        return null;
+	    String ret = config.getProperty(name.toLowerCase());
+	    addLogEntry("Config Read: key: " + name + ", value: " + ret);
+	    return ret;
 	}
 	
 	public boolean saveConfig() {
