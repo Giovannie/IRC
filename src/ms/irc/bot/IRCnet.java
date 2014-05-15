@@ -6,9 +6,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.net.Socket;
-import java.util.ArrayList;
 import java.util.Properties;
-import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.LinkedBlockingQueue;
 import java.util.logging.Level;
 import java.util.logging.LogRecord;
@@ -16,10 +14,8 @@ import java.util.logging.LogRecord;
 import ms.irc.bot.command.general.IRCCommandManager;
 import ms.irc.bot.filesystem.IRCFileSystem;
 import ms.irc.bot.filesystem.IRCLogger;
-import ms.irc.bot.userdata.Channel;
 import ms.irc.bot.userdata.DataManager;
 import ms.irc.bot.userdata.Message;
-import ms.irc.bot.userdata.Nick;
 
 /**
  * This is the Core of the IRC Client. May be used
@@ -95,7 +91,7 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 		
 		registered = false;
 		
-		dataManager = new DataManager();
+		dataManager = new DataManager(this);
 		
 		//initialize the config
 		config = new Properties();

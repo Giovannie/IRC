@@ -1,8 +1,9 @@
 package ms.irc.bot.userdata;
 
-import java.util.ArrayList;
 import java.util.Collection;
 import java.util.concurrent.ConcurrentHashMap;
+
+import ms.irc.bot.IRCnet;
 
 /**
  * Class to manage Data such as known Channels and
@@ -19,13 +20,15 @@ public class DataManager {
 
     private ConcurrentHashMap<String, Channel> channel;
     private ConcurrentHashMap<String, Nick> nicks;
+    private IRCnet ircCore;
     
     /**
      * Constructor.
      * 
      */
-    public DataManager() {
-
+    public DataManager(IRCnet ircCore) {
+        
+        this.ircCore = ircCore;
         channel = new ConcurrentHashMap<String, Channel>();
         nicks = new ConcurrentHashMap<String, Nick>();
     }
@@ -59,6 +62,8 @@ public class DataManager {
      * @return a Channel
      */
     public Channel getChannel(String chanName) {
+        if (chanName == null)
+            return null;
         return channel.get(chanName);
     }
     
@@ -73,6 +78,8 @@ public class DataManager {
      *      given name)
      */
     public Nick getNick(String nick) {
+        if (nick == null)
+            return null;
         return nicks.get(nick);
     }
     
