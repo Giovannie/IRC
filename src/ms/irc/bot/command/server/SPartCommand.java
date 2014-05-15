@@ -17,8 +17,13 @@ public class SPartCommand implements MessageCommand {
 
 	@Override
 	public void executeCommand(Message m, IRCnet ircCore) {
+	    
+	    /*
+	     * check params
+	     */
 		if (m.getPrefix() == null || m.getParams() == null) {
 			ircCore.putUM(m.toString());
+			return;
 		}
 		
 		/*

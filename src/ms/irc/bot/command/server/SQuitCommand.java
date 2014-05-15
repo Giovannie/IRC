@@ -4,12 +4,12 @@ import ms.irc.bot.IRCnet;
 import ms.irc.bot.command.general.MessageCommand;
 import ms.irc.bot.userdata.DataManager;
 import ms.irc.bot.userdata.Message;
-import ms.irc.bot.userdata.Nick;
 
-public class SNickCommand implements MessageCommand {
+public class SQuitCommand implements MessageCommand {
 
     @Override
     public void executeCommand(Message m, IRCnet ircCore) {
+
 
         /*
          * check params
@@ -20,12 +20,12 @@ public class SNickCommand implements MessageCommand {
         }
         
         DataManager manager = ircCore.getDataManager();
-        manager.changeNick(m.getNick(), m.getTrailing());
+        manager.deleteNickFromChannels(m.getNick());
         
         /*
          * write message
          */
-        ircCore.putUM("<" + m.getNick() + "> changed his nick to: <" + m.getTrailing() + ">");
+        ircCore.putUM("<" + m.getNick() + "> quit irc); " + m.getTrailing());
     }
 
 }

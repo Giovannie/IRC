@@ -12,6 +12,7 @@ import ms.irc.bot.command.server.SNummericCommand;
 import ms.irc.bot.command.server.SPartCommand;
 import ms.irc.bot.command.server.SPingCommand;
 import ms.irc.bot.command.server.SPrivmsgCommand;
+import ms.irc.bot.command.server.SQuitCommand;
 import ms.irc.bot.command.user.UActionCommand;
 import ms.irc.bot.command.user.UAwayCommand;
 import ms.irc.bot.command.user.UCTCPCommand;
@@ -107,7 +108,7 @@ public class IRCCommandManager implements Runnable {
 //		commands.put("NICK", TODO);
 //		commands.put("USER", value);
 		
-//		commands.put("QUIT", value);
+		commands.put("QUIT", new SQuitCommand());
 //		commands.put("SQUIT", value);//probably I'll never use this
 		
 		commands.put("JOIN", new SJoinCommand());

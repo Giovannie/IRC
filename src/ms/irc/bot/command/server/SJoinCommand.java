@@ -22,6 +22,7 @@ public class SJoinCommand implements MessageCommand {
 	     */
 		if (m.getPrefix() == null || m.getParams() == null) {
 			ircCore.putUM(m.toString());
+			return;
 		}
 		
 		/*

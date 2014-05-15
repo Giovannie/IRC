@@ -119,4 +119,18 @@ public class DataManager {
         
         return;
     }
+
+    public void deleteNickFromChannels(String nickname) {
+        if (nickname == null)
+            throw new IllegalArgumentException("Got a null argument while trying to delete a nickname.");
+        
+        Nick nick = nicks.get(nickname);
+        if (nick == null) {
+            ircCore.addLogEntry(Level.WARNING, "Tried to delete nonexistent nickname from Channels.");
+            return;
+        }
+        for (Channel chan: channel.values()) {
+            chan.deleteUser(nick);
+        }
+    }
 }
