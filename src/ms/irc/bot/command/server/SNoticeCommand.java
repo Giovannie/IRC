@@ -16,6 +16,13 @@ public class SNoticeCommand implements MessageCommand {
 	     * TODO: look if message is a ctcp response
 	     */
 	    
+	    /*
+	     * catch nick beeing null
+	     */
+	    if (m.getNick() == null) {
+	        ircCore.putUM("<unbekannt (" + m.getPrefix() + ") flüstert>" + m.getTrailing());
+	        return;
+	    }
 
         /*
          * adding/updating userdata
@@ -23,7 +30,7 @@ public class SNoticeCommand implements MessageCommand {
         DataManager manager = ircCore.getDataManager();
         Nick nick = manager.getNick(m.getNick());
         if (nick == null) {
-            nick = new Nick(m.getPrefix(), ircCore);
+            nick = new Nick(m.getNick(), ircCore);
             manager.addNick(nick);
         }
 
@@ -34,7 +41,7 @@ public class SNoticeCommand implements MessageCommand {
             /*
              * write message
              */
-			ircCore.putUM("<" + m.getNick() + " fl�stert>" + m.getTrailing());
+			ircCore.putUM("<" + m.getNick() + " flüstert>" + m.getTrailing());
 		} else {
             /*
              * adding/updating userdata
@@ -51,7 +58,7 @@ public class SNoticeCommand implements MessageCommand {
             /*
              * write message
              */
-			ircCore.putUM("[" + m.getParams()[0] + "] <" + m.getNick() + " fl�stert>" + m.getTrailing());
+			ircCore.putUM("[" + m.getParams()[0] + "] <" + m.getNick() + " flüstert>" + m.getTrailing());
 		}
 	}
 

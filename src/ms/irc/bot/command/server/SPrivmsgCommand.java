@@ -30,7 +30,7 @@ public class SPrivmsgCommand implements MessageCommand {
         DataManager manager = ircCore.getDataManager();
         Nick nick = manager.getNick(m.getNick());
         if (nick == null) {
-            nick = new Nick(m.getPrefix(), ircCore);
+            nick = new Nick(m.getNick(), ircCore);
             manager.addNick(nick);
         }
 		
@@ -58,7 +58,7 @@ public class SPrivmsgCommand implements MessageCommand {
 	        /*
 	         * write message
 	         */
-			ircCore.putUM("[" + chanName + "] <" + nick + ">" + m.getTrailing());
+			ircCore.putUM("[" + chanName + "] <" + m.getNick() + ">" + m.getTrailing());
 		}
 	}
 
