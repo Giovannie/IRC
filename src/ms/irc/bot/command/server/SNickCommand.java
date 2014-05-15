@@ -20,6 +20,11 @@ public class SNickCommand implements MessageCommand {
         
         DataManager manager = ircCore.getDataManager();
         manager.changeNick(m.getNick(), m.getTrailing());
+        
+        /*
+         * write message
+         */
+        ircCore.putUM(m.getNick() + " changed his nick to: " + m.getTrailing());
     }
 
 }
