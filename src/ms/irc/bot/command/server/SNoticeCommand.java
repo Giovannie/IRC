@@ -20,7 +20,11 @@ public class SNoticeCommand implements MessageCommand {
 	     * catch nick being null (might occur on server messages
 	     */
 	    if (m.getNick() == null) {
-	        ircCore.putUM("<" + m.getPrefix() + " flüstert>: " + m.getTrailing());
+	        if (m.getPrefix() != null) {
+	            ircCore.putUM("<" + m.getPrefix() + " flüstert>: " + m.getTrailing());
+	        } else {
+                ircCore.putUM("<Server>: " + m.getTrailing());
+	        }
 	        return;
 	    }
 
