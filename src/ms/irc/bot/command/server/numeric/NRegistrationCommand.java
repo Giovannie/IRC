@@ -10,15 +10,14 @@ public class NRegistrationCommand implements MessageCommand {
     public void executeCommand(Message m, IRCnet ircCore) {
         if (m == null || ircCore == null) 
             throw new NullPointerException("Got a Nullpointer while processing nummeric command 004.");
-        if (m.getParams() == null) {
+        if (m.getParams() == null || m.getParams().length < 2) {
             ircCore.putUM("--! Got invalid Message from Server !--");
             return;
         }
             
-        String message = m.getParams()[0];
-        
-        for (int i = 1; i < m.getParams().length; i++)
-            message += " " + m.getParams()[1];
+        String message = m.getParams()[1];
+        for (int i = 2; i < m.getParams().length; i++)
+            message += " " + m.getParams()[i];
         
         ircCore.putUM("<" + m.getPrefix() + ">: " + message );
         

@@ -8,7 +8,16 @@ public class NOnlyUserInfo implements MessageCommand {
 
     @Override
     public void executeCommand(Message m, IRCnet ircCore) {
-        ircCore.putUM("<" + m.getPrefix() + ">: " + m.getTrailing());
+        String message = "";
+        if (m.getParams() != null && m.getParams().length > 1) {
+            message = m.getParams()[1];
+            for (int i = 2; i < m.getParams().length; i++) {
+                message += " " + m.getParams()[i];
+            }
+        }
+        if (m.getTrailing() != null)
+            message += m.getTrailing();
+        ircCore.putUM("<" + m.getPrefix() + ">: " + message);
     }
 
 }
