@@ -11,7 +11,8 @@ public class NRegistrationCommand implements MessageCommand {
         if (m == null || ircCore == null) 
             throw new NullPointerException("Got a Nullpointer while processing nummeric command 004.");
         if (m.getParams() == null || m.getParams().length < 2) {
-            ircCore.putUM("--! Got invalid Message from Server !--");
+            ircCore.putUM("--! Got invalid Message from Server. Message was: !--");
+            ircCore.putUM(m.toString());
             return;
         }
             
