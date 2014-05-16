@@ -35,7 +35,7 @@ public class SNummericCommand implements MessageCommand {
         commands[255] = info;
         
         commands[332] = chanCommand;//Topic
-        commands[333] = chanCommand;
+        commands[333] = info;
         
         commands[353] = new NChannelWhoIsOnCommand();
         
