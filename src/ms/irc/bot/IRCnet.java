@@ -16,6 +16,7 @@ import ms.irc.bot.filesystem.IRCFileSystem;
 import ms.irc.bot.filesystem.IRCLogger;
 import ms.irc.bot.userdata.DataManager;
 import ms.irc.bot.userdata.Message;
+import ms.irc.bot.userdata.Nick;
 
 /**
  * This is the Core of the IRC Client. May be used
@@ -355,6 +356,9 @@ public class IRCnet implements Thread.UncaughtExceptionHandler{
 
 	public void register() {
 		registered = true;
+		
+		//add own Nick
+		dataManager.addNick(new Nick(nick, null, null, this));
 		
 		//write blocked commands to CommandQueue
 		Message m;
